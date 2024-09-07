@@ -16,112 +16,51 @@
 **Sistemas e Servidores**: Diversos sistemas e servidores de alta capacidade 🖥️  
 **Ativos de TI**: Diversos ativos de TI críticos 🛠️
 
-```mermaid
-graph TD
-    A[Diretoria]
-    A --> B[TI]
-    A --> C[Produção]
-    A --> D[Financeiro]
-    A --> E[RH]
-    A --> F[Marketing]
-    A --> G[Logística]
-    A --> H[Pós-Vendas]
-    A --> I[Treinamento]
+# Estrutura Organizacional
 
-    B --> J[Laboratório 1]
-    B --> K[Laboratório 2]
-    B --> L[Laboratório 3]
-    B --> M[Laboratório 4]
-    B --> N[Laboratório 5]
-    B --> O[Administração de Redes]
-    O --> P[Servidores e Sistemas]
-    O --> Q[Ativos de TI]
+## 📊 Diretoria
+- 💻 **TI**
+  - 🧪 Laboratório 1
+  - 🧪 Laboratório 2
+  - 🧪 Laboratório 3
+  - 🧪 Laboratório 4
+  - 🧪 Laboratório 5
+  - 🌐 **Administração de Redes**
+    - 🖥️ Servidores e Sistemas
+    - 📦 Ativos de TI
+- 🏭 **Produção**
+  - 📦 Embalagem
+  - 📦 Estoque
+  - 📦 Almoxarifado
+  - 🏠 Recepção
+  - 🛒 Loja
+  - 💵 Caixa
+  - 🏷️ Rotulagem
+  - 📦 Despacho
+  - 📥 Entrada e Recebimento
+- 💵 **Financeiro**
+  - 📋 Contas a Pagar
+  - 📈 Contas a Receber
+  - 📊 Orçamento
+- 👥 **Recursos Humanos**
+  - 📄 Contratação
+  - 💼 Benefícios
+  - 🌱 Desenvolvimento de Pessoas
+- 📈 **Marketing**
+  - 📢 Campanhas
+  - 🔍 Pesquisa de Mercado
+  - 🎉 Promoções
+- 🚚 **Logística**
+  - 📦 Armazenagem
+  - 🚛 Distribuição
+  - 🚚 Logística de Transporte
+- 🤝 **Pós-Vendas**
+  - 📞 Atendimento ao Cliente
+  - 🛠️ Suporte Técnico
+- 🎓 **Treinamento**
+  - 📚 Programas de Formação
+  - 🧠 Desenvolvimento de Habilidades
 
-    C --> R[Embalagem]
-    C --> S[Estoque]
-    C --> T[Almoxarifado]
-    C --> U[Recepção]
-    C --> V[Loja]
-    C --> W[Caixa]
-    C --> X[Rotulagem]
-    C --> Y[Despacho]
-    C --> Z[Entrada e Recebimento]
-
-    D --> AA[Contas a Pagar]
-    D --> AB[Contas a Receber]
-    D --> AC[Orçamento]
-
-    E --> AD[Contratação]
-    E --> AE[Benefícios]
-    E --> AF[Desenvolvimento de Pessoas]
-
-    F --> AG[Campanhas]
-    F --> AH[Pesquisa de Mercado]
-    F --> AI[Promoções]
-
-    G --> AJ[Armazenagem]
-    G --> AK[Distribuição]
-    G --> AL[Logística de Transporte]
-
-    H --> AM[Atendimento ao Cliente]
-    H --> AN[Suporte Técnico]
-
-    I --> AO[Programas de Formação]
-    I --> AP[Desenvolvimento de Habilidades]
-
-    subgraph TI["Tecnologia da Informação"]
-        B --> P
-        B --> Q
-    end
-
-    subgraph Produção["Produção"]
-        C --> R
-        C --> S
-        C --> T
-        C --> U
-        C --> V
-        C --> W
-        C --> X
-        C --> Y
-        C --> Z
-    end
-
-    subgraph Financeiro["Financeiro"]
-        D --> AA
-        D --> AB
-        D --> AC
-    end
-
-    subgraph RH["Recursos Humanos"]
-        E --> AD
-        E --> AE
-        E --> AF
-    end
-
-    subgraph Marketing["Marketing"]
-        F --> AG
-        F --> AH
-        F --> AI
-    end
-
-    subgraph Logística["Logística"]
-        G --> AJ
-        G --> AK
-        G --> AL
-    end
-
-    subgraph Pós-Vendas["Pós-Vendas"]
-        H --> AM
-        H --> AN
-    end
-
-    subgraph Treinamento["Treinamento"]
-        I --> AO
-        I --> AP
-    end
-
-
-```
 
 ### Métricas de Chamados
 
