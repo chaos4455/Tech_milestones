@@ -55,7 +55,6 @@ Durante minha atuação como **Administrador de Redes** e **Analista de TI** em 
 
 ### 🏭 Produção
 - **Serviço Prestado:**
-  - **Suporte a Máquinas de Embalagem e Rotulagem:** ![Embalagem](https://img.shields.io/badge/Suporte%20Máquinas-Embalagem%20Eficiente-%2324A148?style=flat&logo=package)
   - **Gerenciamento de Sistemas de Controle de Inventário:** ![Controle de Inventário](https://img.shields.io/badge/Gerenciamento%20de%20Inventário-Precisão-%233D84D2?style=flat&logo=box)
   - **Assistência Técnica para Sistemas de Recepção e Despacho:** ![Recepção e Despacho](https://img.shields.io/badge/Suporte%20Recepção%20e%20Despacho-Suporte%20Ágil-%234CAF50?style=flat&logo=truck)
   - **Suporte a Sistemas de Ponto de Venda:** ![Ponto de Venda](https://img.shields.io/badge/Suporte%20Ponto%20de%20Venda-Eficiência%20Garantida-%236B8E23?style=flat&logo=shopping-cart)
@@ -78,7 +77,6 @@ Durante minha atuação como **Administrador de Redes** e **Analista de TI** em 
 ### 🚚 Logística
 - **Serviço Prestado:**
   - **Suporte a Sistemas de Gerenciamento de Armazéns:** ![Armazéns](https://img.shields.io/badge/Suporte%20Armazéns-Logística%20Eficiente-%237C8D4C?style=flat&logo=warehouse)
-  - **Assistência Técnica para Sistemas de Rastreamento e Planejamento de Transporte:** ![Transporte](https://img.shields.io/badge/Suporte%20Transporte-Plano%20Eficiente-%236B8E23?style=flat&logo=truck)
 
 ### 🤝 Pós-Vendas
 - **Serviço Prestado:**
