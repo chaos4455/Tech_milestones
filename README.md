@@ -97,35 +97,6 @@ Durante minha atuação como **Administrador de Redes** e **Analista de TI** em 
 
 ---
 
-### Equipe
-
-- **Diretor de TI**: 
-  Responsável pela supervisão geral da infraestrutura de TI e pela estratégia tecnológica da empresa. Atua como o principal ponto de contato para decisões estratégicas e orçamentárias.
-
-- **Consultor de TI**: 
-  Especialista contratado para fornecer aconselhamento estratégico e técnico sobre a melhoria e otimização dos sistemas de TI. Responsável por avaliar e recomendar novas tecnologias e práticas.
-
-- **Administrador de Redes**: **Elias Andrade**  
-  - Responsável pela administração e manutenção das redes corporativas.
-  - Implementação e gerenciamento de políticas de segurança.
-  - Coordenação com a equipe para a resolução de problemas e otimização da rede.
-
-- **Auxiliar de Suporte**: 
-  - Auxilia na resolução de problemas técnicos de nível básico.
-  - Responsável pelo suporte direto aos usuários e manutenção dos sistemas.
-  - Executa tarefas administrativas relacionadas a chamados e documentação.
-
-### Tecnologias e Ferramentas Utilizadas
-
-- **Sistemas Operacionais**: Windows Server, Linux
-- **Ferramentas de Monitoramento**: Zabbix, 
-- **Ferramentas de Automação**:  Puppet
-- **Gerenciamento de Tickets**: Lansweeper
-
----
-
-*Se precisar de mais detalhes sobre qualquer uma das métricas ou informações, estou à disposição!*
-
 Durante minha trajetória na Medicinal, liderei mais de **100 projetos** significativos, incluindo:
 # 🛠️ Projetos de Infraestrutura e TI
 
@@ -227,8 +198,6 @@ _Janeiro 2006 - Junho 2010_
 🛠️ **Empresas:** [Outras Empresas](https://www.linkedin.com/in/itilmgf)  
 
 ---
-
-
 
 ## Outros rojetos Relevantes 🔍
 
