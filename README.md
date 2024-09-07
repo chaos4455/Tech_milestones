@@ -23,7 +23,7 @@
 - **Tempo Médio de Resposta Remoto**: ![Response Time](https://img.shields.io/badge/Tempo%20Médio%20de%20Resposta%20Remoto-5%20minutos%20para%2090%25%20dos%20problemas-%23F5A623?style=flat&logo=clock)
 - **Percentual de Problemas Documentados e Catalogados**: ![Documentation](https://img.shields.io/badge/Percentual%20de%20Problemas%20Documentados%20e%20Catalogados-100%25-%230E76A8?style=flat&logo=book)
 - **Percentual de Chamados Resolvidos no Primeiro Contato**: ![First Contact](https://img.shields.io/badge/Percentual%20de%20Chamados%20Resolvidos%20no%20Primeiro%20Contato-85%25-%23F5A623?style=flat&logo=check)
-- **Número de Chamados abertos por ano**: ![Chamados Abertos](https://img.shields.io/badge/Número%20de%20Chamados%20Reabertos-1.600+-%23FF5722?style=flat&logo=loop)
+- **Número de Chamados abertos por ano**: ![Chamados Abertos](https://img.shields.io/badge/Número%20de%20Chamados%20Abertos-1.600+-%23FF5722?style=flat&logo=loop)
 
 ### Equipe
 
