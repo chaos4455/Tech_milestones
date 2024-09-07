@@ -63,7 +63,8 @@
 
 ## Trajetória Profissional recente: 2019-2023  📈
 
-### Medicinal 💊
+### Medicinal Farmacia e manipulação, industria, varejo e e-commerce. 💊
+Durante minha atuação como **Administrador de Redes** e **Analista de TI** em uma farmácia de manipulação com aproximadamente 200 funcionários, ofereci suporte técnico abrangente e gerenciei diversas tecnologias. Este relatório destaca como atendi às necessidades dos departamentos e líderes, demonstrando meu valor e competência.
 
 **Faturamento Diário**: ![Faturamento](https://img.shields.io/badge/Faturamento%20Diário-R$300.000%2B-%230F6C9D?style=flat&logo=money)  
 **Número de Funcionários**: ![Funcionários](https://img.shields.io/badge/Número%20de%20Funcionários-200%2B-%234C8BF5?style=flat&logo=users)
@@ -88,7 +89,6 @@
 - **Percentual de Chamados Resolvidos no Primeiro Contato**: ![First Contact](https://img.shields.io/badge/Percentual%20de%20Chamados%20Resolvidos%20no%20Primeiro%20Contato-85%25-%23F5A623?style=flat&logo=check)
 - **Número de Chamados abertos por ano**: ![Chamados Abertos](https://img.shields.io/badge/Número%20de%20Chamados%20Abertos-1.600+-%23FF5722?style=flat&logo=loop)
 
-Durante minha atuação como **Administrador de Redes** e **Analista de TI** em uma farmácia de manipulação com aproximadamente 200 funcionários, ofereci suporte técnico abrangente e gerenciei diversas tecnologias. Este relatório destaca como atendi às necessidades dos departamentos e líderes, demonstrando meu valor e competência.
 
 ## 🏢 Estrutura e Equipamentos
 
