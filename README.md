@@ -191,16 +191,6 @@ _Março 2010 - Agosto 2011_
 
 ---
 
-## 9. **Suporte Técnico e Engenharia de Infraestrutura**  
-**Outras Empresas**  
-_Janeiro 2006 - Junho 2010_  
-🔍 **Descrição do Projeto:** Suporte técnico geral, administração de sistemas e infraestrutura em diversas empresas.  
-💡 **Tecnologias e Ferramentas:** ![Windows XP](https://img.shields.io/badge/Windows_XP-<COLOR>??) ![Windows Vista](https://img.shields.io/badge/Windows_Vista-<COLOR>??) ![Mac OS](https://img.shields.io/badge/Mac_OS-<COLOR>??)  
-⚠️ **Problemas e Dores:** Suporte técnico em ambientes variados e gerenciamento de diferentes sistemas operacionais.  
-💰 **Valor:** Garantia de suporte contínuo e eficiente.  
-🛠️ **Empresas:** [Outras Empresas](https://www.linkedin.com/in/itilmgf)  
-
----
 
 ## Outros projetos Relevantes 🔍
 
