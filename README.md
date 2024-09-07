@@ -192,39 +192,7 @@ _Março 2010 - Agosto 2011_
 ---
 
 
-## Outros projetos Relevantes 🔍
-
-# 🛠️ Projeto: Definição de Fluxos de Suporte Técnico - Wnet (2010)
-
-## 🌐 **Empresa:** Wnet - Provedor de Internet
-## 📅 **Período:** 2010
-## 🎯 **Objetivo:** 
-Definir e estruturar os fluxos de atendimento e suporte técnico da empresa, atendendo usuários de provedor de internet, hospedagem de sites e emails.
-
----
-
-## 📋 **Descrição do Projeto:**
-Este foi meu primeiro projeto na área de Tecnologia da Informação, focado em estabelecer e organizar os fluxos de atendimento ao cliente da Wnet. O projeto envolveu:
-
-- **Definição de fluxos de atendimento:** Níveis de suporte técnico (N1, N2 e escalonamento para N3);
-- **Criação de scripts de atendimento:** Para uso em diversos canais, como email e telefone;
-- **Suporte a usuários:** Envolvendo problemas com provedor de internet, hospedagem de sites e emails;
-- **Organização de processos:** Estruturar o fluxo de atendimento técnico com clara definição de responsabilidades e níveis de escalonamento.
-
----
-
-## 🚀 **Principais Contribuições:**
-- Criação de **fluxos de suporte** claros e eficientes, melhorando a resolução de problemas de clientes.
-- Definição de **scripts de atendimento técnico** que garantiram respostas padronizadas e consistentes em todos os níveis de suporte.
-- Estabelecimento de um **processo de escalonamento** que permitiu um fluxo contínuo entre os níveis de suporte N1, N2 e N3, garantindo que problemas mais complexos fossem rapidamente resolvidos.
-- **Suporte direto ao usuário**, lidando com questões técnicas em tempo real, oferecendo soluções para problemas de internet, hospedagem de sites e emails.
-
----
-
-## 🛠️ **Tecnologias e Ferramentas Utilizadas:**
-- 📞 Atendimento por telefone e email
-- 🖥️ Ferramentas de suporte técnico ao cliente (Tickets)
-- 📝 Documentação de processos e fluxos de suporte
+## Outros projetos Relevantes  em ordem cronológica 2010 - 2023🔍
 
 # 🛠️ **Projeto: Definição de Fluxos de Suporte Técnico** - Wnet (2010)
 
@@ -440,7 +408,99 @@ Este foi meu primeiro projeto na área de Tecnologia da Informação, focado em 
 - 🖥️ **Inventário de PCs**: Mapeamento de máquinas, **IPs** e dados de rede.
 - 🔧 **Automatização via scripts**: Para disparo remoto e conexões manuais em caso de falha na automação.
 
+# 🛒 **Projeto: Inventário Completo de Rede - Angeloni (2015)**
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Ano](https://img.shields.io/badge/ano-2015-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-infraestrutura-blue)
+
+## 🌐 **Empresa:** Angeloni Supermercados  
+📅 **Período:** `2015`  
+🛠️ **Setor:** Infraestrutura de TI | Redes | Inventário  
+📊 **Categoria:** Gestão de Ativos | Monitoramento de Rede
+
 ---
+
+## 🎯 **Objetivo do Projeto:**
+📡 Realizar o **inventário completo** da rede do supermercado Angeloni, abrangendo **7 racks de grande porte**, dispositivos de câmeras IP, **leitores de preços**, dispositivos **Wi-Fi**, **computadores** e **caixas**.
+
+---
+
+## 📝 **Descrição do Projeto:**
+💼 Este projeto envolveu o **mapeamento detalhado** de toda a infraestrutura de TI, com foco em **dispositivos de rede** e **equipamentos** de diferentes setores, como **câmeras de segurança**, **leitores de preços**, **dispositivos Wi-Fi**, **PCs** e **caixas registradoras**.
+
+### 📌 **Tarefas principais:**
+- 📋 **Inventário completo** de **7 racks** de grande porte no Angeloni.
+- 📸 **Mapeamento e categorização** de **câmeras IP**.
+- 🛒 **Registro de ativos** como **leitores de preços**, **dispositivos Wi-Fi**, **computadores** e **caixas**.
+- 🗄️ **Documentação detalhada** dos componentes e **configurações de rede**.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🎛️ **Visibilidade completa** da infraestrutura de rede, facilitando o gerenciamento dos ativos de TI.
+- 📡 Melhor **organização** e **monitoramento** de dispositivos de segurança (câmeras IP) e redes de **Wi-Fi**.
+- 📊 **Automatização dos processos** de gestão e manutenção de ativos, otimizando o suporte técnico e as atualizações.
+
+---
+
+## 🛠️ **Ferramentas e Tecnologias Utilizadas:**
+![Ferramentas](https://img.shields.io/badge/ferramentas-Inventário-yellowgreen) ![Segurança](https://img.shields.io/badge/monitoramento-câmeras_IP-red) ![Redes](https://img.shields.io/badge/gestão-racks-brightblue)  
+- 📡 **Câmeras IP**: Documentação de dispositivos de segurança.
+- 💻 **Leitores de preços e Wi-Fi**: Mapeamento de dispositivos conectados.
+- 🖥️ **PCs e caixas registradoras**: Inventário de equipamentos de TI.
+
+---
+
+# 💊 **Projetos: Medicinal Farmácia e Manipulação (2019)**
+
+![Status](https://img.shields.io/badge/status-em_andamento-blue) ![Ano](https://img.shields.io/badge/ano-2019--lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-infraestrutura-deploy-blue)
+
+## 🌐 **Empresa:** Medicinal Farmácia e Manipulação  
+📅 **Período:** `2019-2023`  
+🛠️ **Setor:** Infraestrutura de TI | Automação | Deploy  
+📊 **Categoria:** Migração de Servidores | Procedimentos de Deploy | Automação
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+🔄 **Migrar** servidores AD Windows Server de **VMware** para **servidores blade Dell** bare metal. Desenvolver e implementar procedimentos de **deploy** de máquinas para atendimento e produção, configurando **Linux Mint** e otimizando o processo de **formatação** e **deploy** com automação avançada.
+
+---
+
+## 📝 **Descrição do Projeto (Ano 2019 - Ano 1 - início):**
+
+### 🖥️ **Migração de Servidores:**
+- **Migração de Infraestrutura**: Realizamos a migração de **servidores AD Windows Server** de um ambiente **VMware** para servidores **bare metal blade Dell**. Essa transição foi crucial para melhorar o desempenho e a escalabilidade da infraestrutura.
+- **Planejamento e Execução**: A migração envolveu o planejamento minucioso, a criação de um ambiente de teste e a execução da transição com mínimas interrupções. Utilizamos ferramentas de **backup e recuperação** para garantir a integridade dos dados.
+
+### 🔧 **Procedimentos de Deploy e Configuração:**
+- **Criação e Configuração**:
+  - Desenvolvemos procedimentos de **deploy** para **máquinas de atendimento e produção**, utilizando **Linux Mint** como sistema operacional.
+  - Implementamos um **processo de formatação** e criação de **imagens** de sistemas, além de configurar um **repositório de configuração** para facilitar a recuperação e a replicação dos ambientes.
+- **Automatização de Deploy**:
+  - **Automatizamos o deploy pós-setup e configuração** usando ferramentas como **Puppet Bolt** para **orquestração** e **gerenciamento de configurações**.
+  - Desenvolvemos scripts para **deploy via rede** (`/mnt`) para simplificar e agilizar a instalação e configuração das máquinas.
+
+### 🛠️ **Ferramentas e Tecnologias Utilizadas:**
+![Servidores](https://img.shields.io/badge/servidores-blade_Dell-blue) ![VMware](https://img.shields.io/badge/virtualização-VMware-lightgrey) ![Linux Mint](https://img.shields.io/badge/SO-Linux_Mint-green) ![Automação](https://img.shields.io/badge/automação-Puppet_Bolt-orange)
+- **Servidores Blade Dell**: Para a nova infraestrutura bare metal.
+- **VMware**: Ambiente virtual anterior de onde os servidores foram migrados.
+- **Linux Mint**: Sistema operacional configurado e deployado em novas máquinas.
+- **Puppet Bolt**: Ferramenta utilizada para automação de configurações e deploy.
+
+### 📋 **Documentação e Procedimentos:**
+- **Procedimentos de Deploy**: Documentação detalhada sobre a criação e configuração de **imagens** e **deploy** de máquinas.
+- **Scripts e Configuração**: Desenvolvimento e manutenção de scripts para **deploy automático** e configuração de máquinas, incluindo **first login** e **desktop setup**.
+- **Repositório de Configuração**: Centralização de configurações e **scripts de deploy** em um repositório acessível para facilitar a recuperação e replicação.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🌟 **Melhoria na Performance**: A migração para servidores blade Dell proporcionou um aumento significativo na **performance** e **escalabilidade** da infraestrutura.
+- 🛠️ **Otimização do Processo**: A automação do **deploy** e a criação de um processo robusto de formatação e configuração reduziram o **tempo de implementação** e **erros manuais**.
+- 📊 **Documentação Abrangente**: Documentação completa e **procedimentos padronizados** garantiram que o processo fosse replicável e sustentável ao longo dos anos.
+
+---
+
 # 💊 **Projetos: Medicinal Farmácia e Manipulação (2020)**
 
 ![Status](https://img.shields.io/badge/status-em_andamento-blue) ![Ano](https://img.shields.io/badge/ano-2020-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-infraestrutura-optimização-blue)
@@ -535,7 +595,7 @@ Este foi meu primeiro projeto na área de Tecnologia da Informação, focado em 
 
 ---
 
-# 💊 **Projetos: Medicinal Farmácia e Manipulação (2022-2023)**
+# 💊 **Projetos: Medicinal Farmácia e Manipulação (2022-2023 - Anos 4 e 5 (final))**
 
 ![Status](https://img.shields.io/badge/status-em_andamento-orange) ![Ano](https://img.shields.io/badge/anos-2022--2023-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-segurança-e_infraestrutura-blue)
 
@@ -631,103 +691,4 @@ Este foi meu primeiro projeto na área de Tecnologia da Informação, focado em 
 - 📈 **Melhoria Contínua**: A documentação completa dos procedimentos permitiu a identificação de áreas para melhorias contínuas e redução de problemas recorrentes.
 
 ---
-
-
-# 🛒 **Projeto: Inventário Completo de Rede - Angeloni (2015)**
-
-![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Ano](https://img.shields.io/badge/ano-2015-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-infraestrutura-blue)
-
-## 🌐 **Empresa:** Angeloni Supermercados  
-📅 **Período:** `2015`  
-🛠️ **Setor:** Infraestrutura de TI | Redes | Inventário  
-📊 **Categoria:** Gestão de Ativos | Monitoramento de Rede
-
----
-
-## 🎯 **Objetivo do Projeto:**
-📡 Realizar o **inventário completo** da rede do supermercado Angeloni, abrangendo **7 racks de grande porte**, dispositivos de câmeras IP, **leitores de preços**, dispositivos **Wi-Fi**, **computadores** e **caixas**.
-
----
-
-## 📝 **Descrição do Projeto:**
-💼 Este projeto envolveu o **mapeamento detalhado** de toda a infraestrutura de TI, com foco em **dispositivos de rede** e **equipamentos** de diferentes setores, como **câmeras de segurança**, **leitores de preços**, **dispositivos Wi-Fi**, **PCs** e **caixas registradoras**.
-
-### 📌 **Tarefas principais:**
-- 📋 **Inventário completo** de **7 racks** de grande porte no Angeloni.
-- 📸 **Mapeamento e categorização** de **câmeras IP**.
-- 🛒 **Registro de ativos** como **leitores de preços**, **dispositivos Wi-Fi**, **computadores** e **caixas**.
-- 🗄️ **Documentação detalhada** dos componentes e **configurações de rede**.
-
----
-
-## 🚀 **Principais Contribuições:**
-- 🎛️ **Visibilidade completa** da infraestrutura de rede, facilitando o gerenciamento dos ativos de TI.
-- 📡 Melhor **organização** e **monitoramento** de dispositivos de segurança (câmeras IP) e redes de **Wi-Fi**.
-- 📊 **Automatização dos processos** de gestão e manutenção de ativos, otimizando o suporte técnico e as atualizações.
-
----
-
-## 🛠️ **Ferramentas e Tecnologias Utilizadas:**
-![Ferramentas](https://img.shields.io/badge/ferramentas-Inventário-yellowgreen) ![Segurança](https://img.shields.io/badge/monitoramento-câmeras_IP-red) ![Redes](https://img.shields.io/badge/gestão-racks-brightblue)  
-- 📡 **Câmeras IP**: Documentação de dispositivos de segurança.
-- 💻 **Leitores de preços e Wi-Fi**: Mapeamento de dispositivos conectados.
-- 🖥️ **PCs e caixas registradoras**: Inventário de equipamentos de TI.
-
----
-
-## 🌍 **Abrangência Geográfica:**
-![Localização](https://img.shields.io/badge/localização-Angeloni_supermercados-lightblue)  
-- Projeto implementado na rede de supermercados **Angeloni**, cobrindo **várias lojas** e **localidades**.
-
-# 💊 **Projetos: Medicinal Farmácia e Manipulação (2019-2023)**
-
-![Status](https://img.shields.io/badge/status-em_andamento-blue) ![Ano](https://img.shields.io/badge/ano-2019--2023-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-infraestrutura-deploy-blue)
-
-## 🌐 **Empresa:** Medicinal Farmácia e Manipulação  
-📅 **Período:** `2019-2023`  
-🛠️ **Setor:** Infraestrutura de TI | Automação | Deploy  
-📊 **Categoria:** Migração de Servidores | Procedimentos de Deploy | Automação
-
----
-
-## 🎯 **Objetivo do Projeto:**
-🔄 **Migrar** servidores AD Windows Server de **VMware** para **servidores blade Dell** bare metal. Desenvolver e implementar procedimentos de **deploy** de máquinas para atendimento e produção, configurando **Linux Mint** e otimizando o processo de **formatação** e **deploy** com automação avançada.
-
----
-
-## 📝 **Descrição do Projeto (Ano 2019):**
-
-### 🖥️ **Migração de Servidores:**
-- **Migração de Infraestrutura**: Realizamos a migração de **servidores AD Windows Server** de um ambiente **VMware** para servidores **bare metal blade Dell**. Essa transição foi crucial para melhorar o desempenho e a escalabilidade da infraestrutura.
-- **Planejamento e Execução**: A migração envolveu o planejamento minucioso, a criação de um ambiente de teste e a execução da transição com mínimas interrupções. Utilizamos ferramentas de **backup e recuperação** para garantir a integridade dos dados.
-
-### 🔧 **Procedimentos de Deploy e Configuração:**
-- **Criação e Configuração**:
-  - Desenvolvemos procedimentos de **deploy** para **máquinas de atendimento e produção**, utilizando **Linux Mint** como sistema operacional.
-  - Implementamos um **processo de formatação** e criação de **imagens** de sistemas, além de configurar um **repositório de configuração** para facilitar a recuperação e a replicação dos ambientes.
-- **Automatização de Deploy**:
-  - **Automatizamos o deploy pós-setup e configuração** usando ferramentas como **Puppet Bolt** para **orquestração** e **gerenciamento de configurações**.
-  - Desenvolvemos scripts para **deploy via rede** (`/mnt`) para simplificar e agilizar a instalação e configuração das máquinas.
-
-### 🛠️ **Ferramentas e Tecnologias Utilizadas:**
-![Servidores](https://img.shields.io/badge/servidores-blade_Dell-blue) ![VMware](https://img.shields.io/badge/virtualização-VMware-lightgrey) ![Linux Mint](https://img.shields.io/badge/SO-Linux_Mint-green) ![Automação](https://img.shields.io/badge/automação-Puppet_Bolt-orange)
-- **Servidores Blade Dell**: Para a nova infraestrutura bare metal.
-- **VMware**: Ambiente virtual anterior de onde os servidores foram migrados.
-- **Linux Mint**: Sistema operacional configurado e deployado em novas máquinas.
-- **Puppet Bolt**: Ferramenta utilizada para automação de configurações e deploy.
-
-### 📋 **Documentação e Procedimentos:**
-- **Procedimentos de Deploy**: Documentação detalhada sobre a criação e configuração de **imagens** e **deploy** de máquinas.
-- **Scripts e Configuração**: Desenvolvimento e manutenção de scripts para **deploy automático** e configuração de máquinas, incluindo **first login** e **desktop setup**.
-- **Repositório de Configuração**: Centralização de configurações e **scripts de deploy** em um repositório acessível para facilitar a recuperação e replicação.
-
----
-
-## 🚀 **Principais Contribuições:**
-- 🌟 **Melhoria na Performance**: A migração para servidores blade Dell proporcionou um aumento significativo na **performance** e **escalabilidade** da infraestrutura.
-- 🛠️ **Otimização do Processo**: A automação do **deploy** e a criação de um processo robusto de formatação e configuração reduziram o **tempo de implementação** e **erros manuais**.
-- 📊 **Documentação Abrangente**: Documentação completa e **procedimentos padronizados** garantiram que o processo fosse replicável e sustentável ao longo dos anos.
-
----
-
 
