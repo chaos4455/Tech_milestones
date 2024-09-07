@@ -16,6 +16,111 @@
 **Sistemas e Servidores**: Diversos sistemas e servidores de alta capacidade 🖥️  
 **Ativos de TI**: Diversos ativos de TI críticos 🛠️
 
+```mermaid
+
+graph TD
+    A[Diretoria] --> B[TI]
+    A --> C[Produção]
+    A --> D[Financeiro]
+    A --> E[RH]
+    A --> F[Marketing]
+    A --> G[Logística]
+    A --> H[Pós-Vendas]
+    A --> I[Treinamento]
+
+    B --> J[Laboratório 1]
+    B --> K[Laboratório 2]
+    B --> L[Laboratório 3]
+    B --> M[Laboratório 4]
+    B --> N[Laboratório 5]
+    B --> O[Administração de Redes]
+    O --> P[Servidores e Sistemas]
+    O --> Q[Ativos de TI]
+
+    C --> R[Embalagem]
+    C --> S[Estoque]
+    C --> T[Almoxarifado]
+    C --> U[Recepção]
+    C --> V[Loja]
+    C --> W[Caixa]
+    C --> X[Rotulagem]
+    C --> Y[Despacho]
+    C --> Z[Entrada e Recebimento]
+
+    D --> AA[Contas a Pagar]
+    D --> AB[Contas a Receber]
+    D --> AC[Orçamento]
+
+    E --> AD[Contratação]
+    E --> AE[Benefícios]
+    E --> AF[Desenvolvimento de Pessoas]
+
+    F --> AG[Campanhas]
+    F --> AH[Pesquisa de Mercado]
+    F --> AI[Promoções]
+
+    G --> AJ[Armazenagem]
+    G --> AK[Distribuição]
+    G --> AL[Logística de Transporte]
+
+    H --> AM[Atendimento ao Cliente]
+    H --> AN[Suporte Técnico]
+
+    I --> AO[Programas de Formação]
+    I --> AP[Desenvolvimento de Habilidades]
+
+    subgraph TI["Tecnologia da Informação"]
+        B --> P
+        B --> Q
+    end
+
+    subgraph Produção["Produção"]
+        C --> R
+        C --> S
+        C --> T
+        C --> U
+        C --> V
+        C --> W
+        C --> X
+        C --> Y
+        C --> Z
+    end
+
+    subgraph Financeiro["Financeiro"]
+        D --> AA
+        D --> AB
+        D --> AC
+    end
+
+    subgraph RH["Recursos Humanos"]
+        E --> AD
+        E --> AE
+        E --> AF
+    end
+
+    subgraph Marketing["Marketing"]
+        F --> AG
+        F --> AH
+        F --> AI
+    end
+
+    subgraph Logística["Logística"]
+        G --> AJ
+        G --> AK
+        G --> AL
+    end
+
+    subgraph Pós-Vendas["Pós-Vendas"]
+        H --> AM
+        H --> AN
+    end
+
+    subgraph Treinamento["Treinamento"]
+        I --> AO
+        I --> AP
+    end
+```
+
 ### Métricas de Chamados
 
 - **Número Total de Chamados atendido em 5 anos**: ![Tickets](https://img.shields.io/badge/Número%20Total%20de%20Chamados-5.000+%2B-%23FF5722?style=flat&logo=ticket)
@@ -27,10 +132,10 @@
 
 ### Equipe
 
-- **Diretor de TI**: [Nome do Diretor]  
+- **Diretor de TI**: 
   Responsável pela supervisão geral da infraestrutura de TI e pela estratégia tecnológica da empresa. Atua como o principal ponto de contato para decisões estratégicas e orçamentárias.
 
-- **Consultor de TI**: [Nome do Consultor]  
+- **Consultor de TI**: 
   Especialista contratado para fornecer aconselhamento estratégico e técnico sobre a melhoria e otimização dos sistemas de TI. Responsável por avaliar e recomendar novas tecnologias e práticas.
 
 - **Administrador de Redes**: **Elias Andrade**  
@@ -38,7 +143,7 @@
   - Implementação e gerenciamento de políticas de segurança.
   - Coordenação com a equipe para a resolução de problemas e otimização da rede.
 
-- **Auxiliar de Suporte**: [Nome do Auxiliar]  
+- **Auxiliar de Suporte**: 
   - Auxilia na resolução de problemas técnicos de nível básico.
   - Responsável pelo suporte direto aos usuários e manutenção dos sistemas.
   - Executa tarefas administrativas relacionadas a chamados e documentação.
