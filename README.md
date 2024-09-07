@@ -24,6 +24,107 @@ Olá! Sou **Elias Andrade**, um profissional com mais de **14 anos** de experiê
 - **Percentual de Problemas Documentados e Catalogados**: 100%
 
 Durante minha trajetória na Medicinal, liderei mais de **100 projetos** significativos, incluindo:
+# 🛠️ Projetos de Infraestrutura e TI
+
+## 1. **Consultor de Infraestrutura Especialista Windows Server - Terminal Server - PowerShell**  
+**Confidencial**  
+_Fevereiro 2024 - Março 2024_  
+🔍 **Descrição do Projeto:** Automação e gestão de ambiente Windows Server 2008, 2012 e 2016 usando PowerShell. Migração de sistemas e serviços, auditoria de infraestrutura e implantação de políticas de GPO.  
+💡 **Tecnologias e Ferramentas:** ![PowerShell](https://img.shields.io/badge/PowerShell-<COLOR>??) ![Windows Server 2008](https://img.shields.io/badge/Windows_Server_2008-<COLOR>??) ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-<COLOR>??) ![Windows Server 2016](https://img.shields.io/badge/Windows_Server_2016-<COLOR>??) ![Active Directory](https://img.shields.io/badge/Active_Directory-<COLOR>??)  
+⚠️ **Problemas e Dores:** Desafios com a automação de políticas e a integração de aplicações legadas.  
+💰 **Valor:** Alta eficiência na gestão e operação de mais de 200 servidores.  
+🛠️ **Empresas:** [Confidencial](https://www.linkedin.com/in/itilmgf)  
+
+---
+
+## 2. **Analista de Infraestrutura Linux e VMware**  
+**Atak Sistemas**  
+_Fevereiro 2024_  
+🔍 **Descrição do Projeto:** Atualização do GitLab e RedMine em ambiente CentOS. Criação de ambientes replicados e documentação de procedimentos.  
+💡 **Tecnologias e Ferramentas:** ![GitLab](https://img.shields.io/badge/GitLab-<COLOR>??) ![CentOS](https://img.shields.io/badge/CentOS-<COLOR>??) ![RedMine](https://img.shields.io/badge/RedMine-<COLOR>??) ![Docker](https://img.shields.io/badge/Docker-<COLOR>??)  
+⚠️ **Problemas e Dores:** Necessidade de replicar ambientes de produção para teste sem impactar o sistema real.  
+💰 **Valor:** Sucesso na atualização com mínima interrupção no ambiente de produção.  
+🛠️ **Empresas:** [Atak Sistemas](https://www.linkedin.com/in/itilmgf)  
+
+---
+
+## 3. **Administrador de Redes e Infraestrutura | Especialista em Alta Disponibilidade e Performance**  
+**Farmácia de Manipulação**  
+_Fevereiro 2019 - Outubro 2023_  
+🔍 **Descrição do Projeto:** Administração de redes Windows Server e VMware. Implementação de Active Directory, GPO, e automação de processos críticos.  
+💡 **Tecnologias e Ferramentas:** ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-<COLOR>??) ![VMware](https://img.shields.io/badge/VMware-<COLOR>??) ![Active Directory](https://img.shields.io/badge/Active_Directory-<COLOR>??) ![Puppet Bolt](https://img.shields.io/badge/Puppet_Bolt-<COLOR>??)  
+⚠️ **Problemas e Dores:** Desafios na automação de processos e recuperação de desastres.  
+💰 **Valor:** Melhorias significativas na eficiência e estabilidade do ambiente de TI.  
+🛠️ **Empresas:** [Farmácia de Manipulação](https://www.linkedin.com/in/itilmgf)  
+
+---
+
+## 4. **Analista de Suporte e Field Services | Especialista em Infraestrutura de Redes**  
+**Coca-Cola FEMSA**  
+_Dezembro 2016 - Agosto 2017_  
+🔍 **Descrição do Projeto:** Suporte técnico para ambientes Windows e configuração de sistemas operacionais. Gerenciamento de videoconferências e backups.  
+💡 **Tecnologias e Ferramentas:** ![Windows 7 Enterprise](https://img.shields.io/badge/Windows_7_Enterprise-<COLOR>??) ![Active Directory](https://img.shields.io/badge/Active_Directory-<COLOR>??) ![Cisco SX20](https://img.shields.io/badge/Cisco_SX20-<COLOR>??)  
+⚠️ **Problemas e Dores:** Gerenciamento de múltiplos chamados e suporte técnico para equipamentos variados.  
+💰 **Valor:** Garantia da continuidade das operações e suporte eficiente para a equipe.  
+🛠️ **Empresas:** [Coca-Cola FEMSA](https://www.linkedin.com/in/itilmgf)  
+
+---
+
+## 5. **Analista de Redes e Suporte Técnico Pleno | Especialista em Automação e Monitoramento**  
+**Supermercados Angeloni Maringá**  
+_Novembro 2015 - Julho 2016_  
+🔍 **Descrição do Projeto:** Gestão de ativos de rede e automação em loja. Monitoramento proativo e suporte técnico para sistemas e redes.  
+💡 **Tecnologias e Ferramentas:** ![Zabbix](https://img.shields.io/badge/Zabbix-<COLOR>??) ![Cisco 2960](https://img.shields.io/badge/Cisco_2960-<COLOR>??) ![Linux Fedora](https://img.shields.io/badge/Linux_Fedora-<COLOR>??)  
+⚠️ **Problemas e Dores:** Manutenção de sistemas e equipamentos críticos em ambiente de varejo.  
+💰 **Valor:** Operação contínua e eficiente dos sistemas da loja.  
+🛠️ **Empresas:** [Supermercados Angeloni Maringá](https://www.linkedin.com/in/itilmgf)  
+
+---
+
+## 6. **Analista de Suporte Pleno | Especialista em Infraestrutura e Gestão de Chamados**  
+**GOL Linhas Aéreas**  
+_Fevereiro 2013 - Junho 2014_  
+🔍 **Descrição do Projeto:** Suporte técnico de nível 2, gerenciamento de chamados e desenvolvimento de CMDB. Suporte remoto 24/7.  
+💡 **Tecnologias e Ferramentas:** ![Windows Server 2008](https://img.shields.io/badge/Windows_Server_2008-<COLOR>??) ![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-<COLOR>??) ![Dell](https://img.shields.io/badge/Dell-<COLOR>??) ![IBM](https://img.shields.io/badge/IBM-<COLOR>??)  
+⚠️ **Problemas e Dores:** Coordenação de múltiplos chamados e suporte crítico para sistemas essenciais.  
+💰 **Valor:** Melhoria na gestão de chamados e suporte técnico eficiente.  
+🛠️ **Empresas:** [GOL Linhas Aéreas](https://www.linkedin.com/in/itilmgf)  
+
+---
+
+## 7. **Assistente de T.I | Especialista em Infraestrutura e Suporte de Sistemas**  
+**Associação Beneficente Bom Samaritano - Hospital Santa Rita**  
+_Novembro 2011 - Agosto 2012_  
+🔍 **Descrição do Projeto:** Suporte a infraestrutura de TI, gestão de servidores e backups. Administração de sistemas Windows e Linux.  
+💡 **Tecnologias e Ferramentas:** ![Windows Server 2003](https://img.shields.io/badge/Windows_Server_2003-<COLOR>??) ![Windows Server 2008](https://img.shields.io/badge/Windows_Server_2008-<COLOR>??) ![Ubuntu](https://img.shields.io/badge/Ubuntu-<COLOR>??) ![CentOS](https://img.shields.io/badge/CentOS-<COLOR>??)  
+⚠️ **Problemas e Dores:** Gerenciamento de crises de segurança e manutenção de sistemas críticos.  
+💰 **Valor:** Garantia da continuidade dos serviços e segurança dos dados.  
+🛠️ **Empresas:** [Associação Beneficente Bom Samaritano - Hospital Santa Rita](https://www.linkedin.com/in/itilmgf)  
+
+---
+
+## 8. **Analista de Suporte Técnico | Especialista em Provedor de Internet**  
+**Wnet Internet**  
+_Março 2010 - Agosto 2011_  
+🔍 **Descrição do Projeto:** Suporte técnico para serviços de internet, administração de servidores Linux e hospedagem de sites.  
+💡 **Tecnologias e Ferramentas:** ![Linux](https://img.shields.io/badge/Linux-<COLOR>??) ![Postfix](https://img.shields.io/badge/Postfix-<COLOR>??) ![Cpanel](https://img.shields.io/badge/Cpanel-<COLOR>??) ![WHM](https://img.shields.io/badge/WHM-<COLOR>??)  
+⚠️ **Problemas e Dores:** Resolução de problemas de conectividade e administração de serviços de e-mail.  
+💰 **Valor:** Melhoria na gestão e suporte de serviços de internet.  
+🛠️ **Empresas:** [Wnet Internet](https://www.linkedin.com/in/itilmgf)  
+
+---
+
+## 9. **Suporte Técnico e Engenharia de Infraestrutura**  
+**Outras Empresas**  
+_Janeiro 2006 - Junho 2010_  
+🔍 **Descrição do Projeto:** Suporte técnico geral, administração de sistemas e infraestrutura em diversas empresas.  
+💡 **Tecnologias e Ferramentas:** ![Windows XP](https://img.shields.io/badge/Windows_XP-<COLOR>??) ![Windows Vista](https://img.shields.io/badge/Windows_Vista-<COLOR>??) ![Mac OS](https://img.shields.io/badge/Mac_OS-<COLOR>??)  
+⚠️ **Problemas e Dores:** Suporte técnico em ambientes variados e gerenciamento de diferentes sistemas operacionais.  
+💰 **Valor:** Garantia de suporte contínuo e eficiente.  
+🛠️ **Empresas:** [Outras Empresas](https://www.linkedin.com/in/itilmgf)  
+
+---
+
 
 - **[Projeto de Migração de Sistemas](#)**: Migramos todos os sistemas para uma nova infraestrutura, resultando em uma redução de 30% no tempo de inatividade.  
   ![Tecnologia](https://img.shields.io/badge/Technology-Cloud%20Migration-blue) ![Método](https://img.shields.io/badge/Methodology-Agile-yellow) ![Framework](https://img.shields.io/badge/Framework-AWS-orange) ![Benefício](https://img.shields.io/badge/Benefit-Reduced%20Downtime-brightgreen)
