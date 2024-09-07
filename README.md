@@ -2,8 +2,6 @@
 
 - **Especialidades**: ![Specialties](https://img.shields.io/badge/Especialidades-Administração%20de%20Redes%2C%20Sistemas%20Linux%2C%20DevOps%2C%20Suporte%20Técnico%20e%20ITSM-%2300A4E8?style=flat&logo=linux)  
 - **Linguagens**: ![Languages](https://img.shields.io/badge/Linguagens-Python%2C%20Bash%2C%20PowerShell-%231F9CFC?style=flat&logo=python)  
-- **Ferramentas**: ![Tools](https://img.shields.io/badge/Ferramentas-Ansible%2C%20Puppet%2C%20Chef-%238C2D40?style=flat&logo=ansible)  
-- **Objetivo**: ![Objective](https://img.shields.io/badge/Objetivo-Novos%20Desafios%20em%20Infraestrutura%20e%20Suporte%20Técnico-%237F9A4C?style=flat&logo=server)  
 
 ## Trajetória Profissional 📈
 
