@@ -1,27 +1,23 @@
-# Elias Andrade - Currículo Profissional 🚀
+# Elias Andrade - Milestone e trajetória Profissional 🚀
 
-## Sobre Mim 🌟
-
-Olá! Sou **Elias Andrade**, um profissional com mais de **14 anos** de experiência em **infraestrutura de TI**. Minha carreira inclui a administração de redes, sistemas Linux e práticas DevOps, com uma sólida experiência em suporte técnico e ITSM.
-
-- **Especialidades**: Administração de redes, sistemas Linux, práticas DevOps, suporte técnico e ITSM
-- **Linguagens**: Python, Bash, PowerShell
-- **Ferramentas**: Ansible, Puppet, Chef
-- **Objetivo**: Busco novas oportunidades na área de infraestrutura e suporte técnico
+- **Especialidades**: ![Specialties](https://img.shields.io/badge/Especialidades-Administração%20de%20Redes%2C%20Sistemas%20Linux%2C%20DevOps%2C%20Suporte%20Técnico%20e%20ITSM-%2300A4E8?style=flat&logo=linux)  
+- **Linguagens**: ![Languages](https://img.shields.io/badge/Linguagens-Python%2C%20Bash%2C%20PowerShell-%231F9CFC?style=flat&logo=python)  
+- **Ferramentas**: ![Tools](https://img.shields.io/badge/Ferramentas-Ansible%2C%20Puppet%2C%20Chef-%238C2D40?style=flat&logo=ansible)  
+- **Objetivo**: ![Objective](https://img.shields.io/badge/Objetivo-Novos%20Desafios%20em%20Infraestrutura%20e%20Suporte%20Técnico-%237F9A4C?style=flat&logo=server)  
 
 ## Trajetória Profissional 📈
 
 ### Medicinal 💊
 
 **Período**: 2010 - 2023  
-**Porte da Empresa**: Grande  
-**Faturamento Diário**: R$300.000+  
-**Número de Funcionários**: 500+  
-**Sistemas e Servidores**: Diversos sistemas e servidores de alta capacidade  
-**Ativos de TI**: Diversos ativos de TI críticos  
+**Porte da Empresa**: Grande 🏢  
+**Faturamento Diário**: ![Revenue](https://img.shields.io/badge/Faturamento%20Diário-R$300.000%2B-%230F6C9D?style=flat&logo=money)  
+**Número de Funcionários**: ![Employees](https://img.shields.io/badge/Número%20de%20Funcionários-500%2B-%234C8BF5?style=flat&logo=users)  
+**Sistemas e Servidores**: Diversos sistemas e servidores de alta capacidade 🖥️  
+**Ativos de TI**: Diversos ativos de TI críticos 🛠️  
 **Métricas de Tickets**:  
-- **Tempo Médio de Resposta Remoto**: 5 minutos para 90% dos problemas  
-- **Percentual de Problemas Documentados e Catalogados**: 100%
+- **Tempo Médio de Resposta Remoto**: ![Response Time](https://img.shields.io/badge/Tempo%20Médio%20de%20Resposta%20Remoto-5%20minutos%20para%2090%25%20dos%20problemas-%23F5A623?style=flat&logo=clock)  
+- **Percentual de Problemas Documentados e Catalogados**: ![Documentation](https://img.shields.io/badge/Percentual%20de%20Problemas%20Documentados%20e%20Catalogados-100%25-%230E76A8?style=flat&logo=book)  
 
 Durante minha trajetória na Medicinal, liderei mais de **100 projetos** significativos, incluindo:
 # 🛠️ Projetos de Infraestrutura e TI
