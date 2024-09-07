@@ -126,14 +126,8 @@ _Janeiro 2006 - Junho 2010_
 ---
 
 
-- **[Projeto de Migração de Sistemas](#)**: Migramos todos os sistemas para uma nova infraestrutura, resultando em uma redução de 30% no tempo de inatividade.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Cloud%20Migration-blue) ![Método](https://img.shields.io/badge/Methodology-Agile-yellow) ![Framework](https://img.shields.io/badge/Framework-AWS-orange) ![Benefício](https://img.shields.io/badge/Benefit-Reduced%20Downtime-brightgreen)
-- **[Implementação de Políticas de Segurança](#)**: Desenvolvi e implementei políticas de segurança que aumentaram a proteção dos dados em 50%.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Security%20Policies-red) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ISO%2027001-green) ![Benefício](https://img.shields.io/badge/Benefit-Increased%20Data%20Protection-brightgreen)
-- **[Automatização de Processos](#)**: Automatizamos processos-chave, o que aumentou a eficiência em 40%.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Automation-yellow) ![Método](https://img.shields.io/badge/Methodology-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-Ansible-blue) ![Benefício](https://img.shields.io/badge/Benefit-Increased%20Efficiency-brightgreen)
 
-## Projetos Relevantes 🔍
+## Outros rojetos Relevantes 🔍
 
 ### ITSM e Suporte Técnico 💼
 
@@ -155,6 +149,13 @@ _Janeiro 2006 - Junho 2010_
   ![Tecnologia](https://img.shields.io/badge/Technology-Service%20Request%20Management-blue) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Request%20Management-green) ![Benefício](https://img.shields.io/badge/Benefit-Efficient%20Service%20Management-brightgreen)
 - **[Desenvolvimento de Ferramenta de Relatórios de Suporte](#)**: Ferramenta para gerar relatórios detalhados sobre o desempenho e atividades do suporte técnico.  
   ![Tecnologia](https://img.shields.io/badge/Technology-Reporting-yellow) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Grafana-green) ![Benefício](https://img.shields.io/badge/Benefit-Detailed%20Insights-brightgreen)
+
+- **[Projeto de Migração de Sistemas](#)**: Migramos todos os sistemas para uma nova infraestrutura, resultando em uma redução de 30% no tempo de inatividade.  
+  ![Tecnologia](https://img.shields.io/badge/Technology-Cloud%20Migration-blue) ![Método](https://img.shields.io/badge/Methodology-Agile-yellow) ![Framework](https://img.shields.io/badge/Framework-AWS-orange) ![Benefício](https://img.shields.io/badge/Benefit-Reduced%20Downtime-brightgreen)
+- **[Implementação de Políticas de Segurança](#)**: Desenvolvi e implementei políticas de segurança que aumentaram a proteção dos dados em 50%.  
+  ![Tecnologia](https://img.shields.io/badge/Technology-Security%20Policies-red) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ISO%2027001-green) ![Benefício](https://img.shields.io/badge/Benefit-Increased%20Data%20Protection-brightgreen)
+- **[Automatização de Processos](#)**: Automatizamos processos-chave, o que aumentou a eficiência em 40%.  
+  ![Tecnologia](https://img.shields.io/badge/Technology-Automation-yellow) ![Método](https://img.shields.io/badge/Methodology-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-Ansible-blue) ![Benefício](https://img.shields.io/badge/Benefit-Increased%20Efficiency-brightgreen)
 
 ### Active Directory e Windows Server 🖥️
 
