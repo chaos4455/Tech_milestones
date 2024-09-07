@@ -30,12 +30,6 @@
 - **Percentual de Chamados Resolvidos no Primeiro Contato**: ![First Contact](https://img.shields.io/badge/Percentual%20de%20Chamados%20Resolvidos%20no%20Primeiro%20Contato-85%25-%23F5A623?style=flat&logo=check)
 - **Número de Chamados abertos por ano**: ![Chamados Abertos](https://img.shields.io/badge/Número%20de%20Chamados%20Abertos-1.600+-%23FF5722?style=flat&logo=loop)
 
-
-## Detalhes do Projeto: Administração de Redes e Suporte Técnico
-# 🌟 Relatório de Atuação na Farmácia de Manipulação 🌟
-
-## 📊 Visão Geral
-
 Durante minha atuação como **Administrador de Redes** e **Analista de TI** em uma farmácia de manipulação com aproximadamente 200 funcionários, ofereci suporte técnico abrangente e gerenciei diversas tecnologias. Este relatório destaca como atendi às necessidades dos departamentos e líderes, demonstrando meu valor e competência.
 
 ## 🏢 Estrutura e Equipamentos
