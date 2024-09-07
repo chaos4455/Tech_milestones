@@ -234,23 +234,9 @@ _Janeiro 2006 - Junho 2010_
 - **[Criação de Ambiente de Teste para Active Directory](#)**: Desenvolvimento de um ambiente de teste para avaliar novas políticas e configurações.  
   ![Tecnologia](https://img.shields.io/badge/Technology-Test%20Environment-orange) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-green) ![Benefício](https://img.shields.io/badge/Benefit-Safe%20Testing-brightgreen)
 - **[Automatização de Processos em Windows Server](#)**: Scripts e ferramentas para automatizar tarefas administrativas em servidores Windows.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Automation-yellow) ![Método](https://img.shields.io/badge/Methodology-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-Powershell-blue) ![Benefício](https://img.shields.io/badge/Benefit-Automated%20Administration-brightgreen)
-- **[Gerenciamento de Backup e Recuperação de Active Directory](#)**: Implementação de estratégias de backup e recuperação para Active Directory.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Backup%20and%20Recovery-red) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-green) ![Benefício](https://img.shields.io/badge/Benefit-Data%20Protection-brightgreen)
-- **[Desenvolvimento de Ferramenta de Monitoramento para Windows Server](#)**: Ferramenta para monitorar a saúde e o desempenho dos servidores Windows.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Monitoring%20Tool-blue) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Nagios-green) ![Benefício](https://img.shields.io/badge/Benefit-Health%20Monitoring-brightgreen)
-- **[Implementação de Soluções de Segurança para Windows Server](#)**: Estratégias e ferramentas para proteger servidores Windows contra ameaças.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Security%20Solutions-red) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft%20Security-green) ![Benefício](https://img.shields.io/badge/Benefit-Threat%20Protection-brightgreen)
-- **[Desenvolvimento de Scripts de Manutenção para Windows Server](#)**: Scripts para automatizar tarefas de manutenção e gerenciamento de servidores.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Scripting-yellow) ![Método](https://img.shields.io/badge/Methodology-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-Powershell-blue) ![Benefício](https://img.shields.io/badge/Benefit-Efficient%20Maintenance-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Technology-Automation-yellow) ![Método](https://img.shields.io/badge/Methodology-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-PowerShell-blue) ![Benefício](https://img.shields.io/badge/Benefit-Efficient%20Administration-brightgreen)
 
-### ITIL e Service Desk 📞
+---
 
-- **[Criação de Sistema de Gerenciamento de Mudanças](#)**: Sistema para gerenciar mudanças em infraestrutura de TI com mínima interrupção.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Change%20Management-red) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ServiceNow-green) ![Benefício](https://img.shields.io/badge/Benefit-Minimal%20Disruption-brightgreen)
-- **[Implementação de Processo de Gestão de Problemas](#)**: Desenvolvimento e implementação de processos para identificação e resolução de problemas.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Problem%20Management-blue) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-JIRA-green) ![Benefício](https://img.shields.io/badge/Benefit-Root%20Cause%20Analysis-brightgreen)
-- **[Desenvolvimento de Sistema de Relatórios de Service Desk](#)**: Ferramenta para relatórios detalhados das atividades e desempenho do Service Desk.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Service%20Desk%20Reporting-yellow) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Grafana-green) ![Benefício](https://img.shields.io/badge/Benefit-Comprehensive%20Reporting-brightgreen)
-- **[Implementação de Processo de Atendimento ao Cliente](#)**: Processo estruturado para garantir um atendimento ao cliente eficaz e eficiente.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Customer%20Service-orange) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ITSM-green) ![Benefício](https://img.shields.io/badge/Benefit-Enhanced%20Customer%20Satisfaction-brightgreen)
+Cada projeto descrito aqui contribui para um suporte técnico e uma gestão de TI mais eficiente, proporcionando valor significativo para as organizações e melhorando a experiência geral dos usuários.
+
