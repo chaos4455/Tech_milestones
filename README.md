@@ -3,11 +3,12 @@
 - **Especialidades**: ![Specialties](https://img.shields.io/badge/Especialidades-Administração%20de%20Redes%2C%20Sistemas%20Linux%2C%20DevOps%2C%20Suporte%20Técnico%20e%20ITSM-%2300A4E8?style=flat&logo=linux)  
 - **Linguagens**: ![Languages](https://img.shields.io/badge/Linguagens-Python%2C%20Bash%2C%20PowerShell-%231F9CFC?style=flat&logo=python)  
 
-## Trajetória Profissional 📈
+## Trajetória Profissional recente: 2019-2023  📈
 
 ### Medicinal 💊
 
-## Detalhes do Projeto: Administração de Redes e Suporte Técnico
+**Faturamento Diário**: ![Faturamento](https://img.shields.io/badge/Faturamento%20Diário-R$300.000%2B-%230F6C9D?style=flat&logo=money)  
+**Número de Funcionários**: ![Funcionários](https://img.shields.io/badge/Número%20de%20Funcionários-200%2B-%234C8BF5?style=flat&logo=users)
 
 **Período**: 2010 - 2023  
 **Porte da Empresa**: Grande 🏢  
@@ -15,52 +16,6 @@
 **Número de Funcionários**: ![Employees](https://img.shields.io/badge/Número%20de%20Funcionários-200%2B-%234C8BF5?style=flat&logo=users)  
 **Sistemas e Servidores**: Diversos sistemas e servidores de alta capacidade 🖥️  
 **Ativos de TI**: Diversos ativos de TI críticos 🛠️
-
-# Estrutura Organizacional
-
-## 📊 Diretoria
-- 💻 **TI**
-  - 🧪 Laboratório 1
-  - 🧪 Laboratório 2
-  - 🧪 Laboratório 3
-  - 🧪 Laboratório 4
-  - 🧪 Laboratório 5
-  - 🌐 **Administração de Redes**
-    - 🖥️ Servidores e Sistemas
-    - 📦 Ativos de TI
-- 🏭 **Produção**
-  - 📦 Embalagem
-  - 📦 Estoque
-  - 📦 Almoxarifado
-  - 🏠 Recepção
-  - 🛒 Loja
-  - 💵 Caixa
-  - 🏷️ Rotulagem
-  - 📦 Despacho
-  - 📥 Entrada e Recebimento
-- 💵 **Financeiro**
-  - 📋 Contas a Pagar
-  - 📈 Contas a Receber
-  - 📊 Orçamento
-- 👥 **Recursos Humanos**
-  - 📄 Contratação
-  - 💼 Benefícios
-  - 🌱 Desenvolvimento de Pessoas
-- 📈 **Marketing**
-  - 📢 Campanhas
-  - 🔍 Pesquisa de Mercado
-  - 🎉 Promoções
-- 🚚 **Logística**
-  - 📦 Armazenagem
-  - 🚛 Distribuição
-  - 🚚 Logística de Transporte
-- 🤝 **Pós-Vendas**
-  - 📞 Atendimento ao Cliente
-  - 🛠️ Suporte Técnico
-- 🎓 **Treinamento**
-  - 📚 Programas de Formação
-  - 🧠 Desenvolvimento de Habilidades
-
 
 ### Métricas de Chamados
 
@@ -70,6 +25,75 @@
 - **Percentual de Problemas Documentados e Catalogados**: ![Documentation](https://img.shields.io/badge/Percentual%20de%20Problemas%20Documentados%20e%20Catalogados-100%25-%230E76A8?style=flat&logo=book)
 - **Percentual de Chamados Resolvidos no Primeiro Contato**: ![First Contact](https://img.shields.io/badge/Percentual%20de%20Chamados%20Resolvidos%20no%20Primeiro%20Contato-85%25-%23F5A623?style=flat&logo=check)
 - **Número de Chamados abertos por ano**: ![Chamados Abertos](https://img.shields.io/badge/Número%20de%20Chamados%20Abertos-1.600+-%23FF5722?style=flat&logo=loop)
+
+
+## Detalhes do Projeto: Administração de Redes e Suporte Técnico
+# 🌟 Relatório de Atuação na Farmácia de Manipulação 🌟
+
+## 📊 Visão Geral
+
+Durante minha atuação como **Administrador de Redes** e **Analista de TI** em uma farmácia de manipulação com aproximadamente 200 funcionários, ofereci suporte técnico abrangente e gerenciei diversas tecnologias. Este relatório destaca como atendi às necessidades dos departamentos e líderes, demonstrando meu valor e competência.
+
+## 🏢 Estrutura e Equipamentos
+
+### 📈 Diretoria
+- **Serviço Prestado:**
+  - **Suporte a Equipamentos de Videoconferência:** ![Videoconferência](https://img.shields.io/badge/Suporte%20Videoconferência-Ativo-%230F6C9D?style=flat&logo=video)
+  - **Gestão de Computadores de Alto Desempenho:** ![Computadores](https://img.shields.io/badge/Gestão%20Computadores-Desempenho%20Ótimo-%234C8BF5?style=flat&logo=computer)
+  - **Coordenação e Planejamento de TI:** ![Planejamento](https://img.shields.io/badge/Coordenação%20de%20TI-Planejamento%20Estratégico-%23FF6F61?style=flat&logo=tasks)
+
+### 💻 TI
+- **Serviço Prestado:**
+  - **Suporte e Manutenção de Laboratórios:** ![Laboratórios](https://img.shields.io/badge/Manutenção%20Laboratórios-Suporte%20Completo-%2333A3F?style=flat&logo=tools)
+  - **Administração de Redes:** ![Administração de Redes](https://img.shields.io/badge/Administração%20de%20Redes-Gestão%20Eficaz-%231E90FF?style=flat&logo=network-wired)
+  - **Gerenciamento de Servidores e Sistemas:** ![Servidores](https://img.shields.io/badge/Gerenciamento%20de%20Servidores-Monitoramento%20Ativo-%237A42F4?style=flat&logo=server)
+  - **Controle de Ativos de TI:** ![Ativos de TI](https://img.shields.io/badge/Controle%20de%20Ativos-Preciso-%2337B6D3?style=flat&logo=inventory)
+
+### 🏭 Produção
+- **Serviço Prestado:**
+  - **Suporte a Máquinas de Embalagem e Rotulagem:** ![Embalagem](https://img.shields.io/badge/Suporte%20Máquinas-Embalagem%20Eficiente-%2324A148?style=flat&logo=package)
+  - **Gerenciamento de Sistemas de Controle de Inventário:** ![Controle de Inventário](https://img.shields.io/badge/Gerenciamento%20de%20Inventário-Precisão-%233D84D2?style=flat&logo=box)
+  - **Assistência Técnica para Sistemas de Recepção e Despacho:** ![Recepção e Despacho](https://img.shields.io/badge/Suporte%20Recepção%20e%20Despacho-Suporte%20Ágil-%234CAF50?style=flat&logo=truck)
+  - **Suporte a Sistemas de Ponto de Venda:** ![Ponto de Venda](https://img.shields.io/badge/Suporte%20Ponto%20de%20Venda-Eficiência%20Garantida-%236B8E23?style=flat&logo=shopping-cart)
+
+### 💵 Financeiro
+- **Serviço Prestado:**
+  - **Suporte a Sistemas de Contabilidade e Finanças:** ![Contabilidade](https://img.shields.io/badge/Suporte%20Contabilidade-Preciso-%233AB02C?style=flat&logo=money)
+  - **Assistência para Processamento de Dados Financeiros:** ![Processamento Financeiro](https://img.shields.io/badge/Processamento%20Financeiro-Rápido-%2310B981?style=flat&logo=calculator)
+
+### 👥 Recursos Humanos
+- **Serviço Prestado:**
+  - **Suporte para Sistemas de Gestão de Pessoal e Folha de Pagamento:** ![Gestão de Pessoal](https://img.shields.io/badge/Suporte%20Gestão%20de%20Pessoal-Completo-%232F9D7D?style=flat&logo=group)
+  - **Assistência Técnica para Sistemas de Recrutamento:** ![Recrutamento](https://img.shields.io/badge/Suporte%20Recrutamento-Fácil-%239E9D24?style=flat&logo=job)
+
+### 📈 Marketing
+- **Serviço Prestado:**
+  - **Suporte a Sistemas de CRM e Análise de Mercado:** ![CRM](https://img.shields.io/badge/Suporte%20CRM-Avançado-%2358C9F3?style=flat&logo=business)
+  - **Assistência Técnica para Ferramentas de Criação de Campanhas:** ![Campanhas](https://img.shields.io/badge/Suporte%20Campanhas-Criação%20Eficaz-%23E91E63?style=flat&logo=ad)
+
+### 🚚 Logística
+- **Serviço Prestado:**
+  - **Suporte a Sistemas de Gerenciamento de Armazéns:** ![Armazéns](https://img.shields.io/badge/Suporte%20Armazéns-Logística%20Eficiente-%237C8D4C?style=flat&logo=warehouse)
+  - **Assistência Técnica para Sistemas de Rastreamento e Planejamento de Transporte:** ![Transporte](https://img.shields.io/badge/Suporte%20Transporte-Plano%20Eficiente-%236B8E23?style=flat&logo=truck)
+
+### 🤝 Pós-Vendas
+- **Serviço Prestado:**
+  - **Suporte a Sistemas de Atendimento ao Cliente:** ![Atendimento ao Cliente](https://img.shields.io/badge/Suporte%20Atendimento-Qualidade%20Garantida-%232C6D8F?style=flat&logo=customer-service)
+  - **Assistência Técnica para Ferramentas de Suporte:** ![Suporte Técnico](https://img.shields.io/badge/Suporte%20Técnico-Resolução%20Ágil-%233B5998?style=flat&logo=tools)
+
+### 🎓 Treinamento
+- **Serviço Prestado:**
+  - **Suporte a Plataformas de E-Learning e Gestão de Aprendizado:** ![E-Learning](https://img.shields.io/badge/Suporte%20E--Learning-Plataformas%20Atualizadas-%237C4DFF?style=flat&logo=education)
+  - **Assistência Técnica para Sistemas de Desenvolvimento de Habilidades:** ![Desenvolvimento de Habilidades](https://img.shields.io/badge/Suporte%20Desenvolvimento-Habilidades%20Avançadas-%23FF6F61?style=flat&logo=skill)
+
+## 🏅 Contribuições e Valor
+
+- **Gestão de TI:** 🛠️ **Coordenei e gerenciei a infraestrutura de TI** para garantir a continuidade das operações e a eficiência dos sistemas. ![Gestão de TI](https://img.shields.io/badge/Gestão%20de%20TI-Eficiente-%23339B77?style=flat&logo=network-wired)
+- **Suporte Técnico:** 👨‍💻 **Forneci suporte técnico de alta qualidade**, resolvendo problemas rapidamente e minimizando o tempo de inatividade. ![Suporte Técnico](https://img.shields.io/badge/Suporte%20Técnico-Ágil-%2331B6D1?style=flat&logo=tech)
+- **Interação com Departamentos:** 🤝 **Trabalhei diretamente com líderes e usuários de todos os departamentos**, identificando necessidades e implementando soluções. ![Interação](https://img.shields.io/badge/Interação%20Direta-Completa-%23F8D100?style=flat&logo=people)
+- **Implementação de Tecnologia:** 🚀 **Introduzi novas tecnologias e melhores práticas**, otimizando o desempenho e a segurança dos sistemas. ![Inovação Tecnológica](https://img.shields.io/badge/Inovação%20Tecnológica-Avançada-%23E91E63?style=flat&logo=innovation)
+
+---
 
 ### Equipe
 
