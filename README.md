@@ -408,10 +408,197 @@ Este foi meu primeiro projeto na área de Tecnologia da Informação, focado em 
 - 🔧 **Automatização via scripts**: Para disparo remoto e conexões manuais em caso de falha na automação.
 
 ---
+# 💊 **Projetos: Medicinal Farmácia e Manipulação (2020)**
 
-## 🌍 **Abrangência Geográfica:**
-![Abrangência](https://img.shields.io/badge/abrangência-nacional-brightblue)  
-- Todos os **aeroportos** do Brasil onde a GOL possui guichês foram incluídos, abrangendo **várias cidades e estados**.
+![Status](https://img.shields.io/badge/status-em_andamento-blue) ![Ano](https://img.shields.io/badge/ano-2020-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-infraestrutura-optimização-blue)
+
+## 🌐 **Empresa:** Medicinal Farmácia e Manipulação  
+📅 **Período:** `2020`  
+🛠️ **Setor:** Infraestrutura de TI | Otimização | Backup  
+📊 **Categoria:** Tuning de Performance | Backup e Replicação | Gestão de Atualizações
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+🔄 **Otimizar** a performance do banco de dados **Firebird** e garantir a continuidade das operações através de **duplicação de servidores AD** e **rotinas de backup** robustas, além de implementar políticas de atualização de ERP.
+
+---
+
+## 📝 **Descrição do Projeto (Ano 2020):**
+
+### ⚙️ **Tuning de Performance do Banco Firebird:**
+- **Otimização de Consultas**: Realizamos um tuning completo no banco de dados **Firebird**, melhorando a eficiência das consultas e o tempo de resposta do ERP.
+- **Análise de Índices**: Revisão e criação de índices apropriados para melhorar o desempenho das operações e a velocidade de acesso aos dados.
+
+### 🌐 **Duplicação de AD Server e Load Balancing:**
+- **Infraestrutura de Servidores AD**: Implementação de **2 servidores AD** para distribuição de carga, garantindo suporte para o uso do ERP por **50 usuários** por servidor.
+- **Load Balancing**: Configuração de **load balancing** para otimizar o uso de recursos e garantir que as solicitações sejam distribuídas de maneira uniforme entre os servidores, melhorando a eficiência do sistema.
+
+### 🔒 **Rotinas de Backup e Replicação:**
+- **Backup Bare Metal**: Implementação de rotinas de **backup bare metal**, garantindo a recuperação completa da infraestrutura em caso de falhas.
+- **Replicação de Servidor de Arquivos**: Estabelecimento de replicação de servidores de arquivos para **3 fontes**:
+  - **Fonte Externa**: Backup de dados críticos em uma unidade externa.
+  - **Fonte Quente**: Replicação em tempo real para garantir a continuidade das operações.
+  - **Fonte na Cloud**: Backup na nuvem para segurança adicional e recuperação de desastres.
+
+### 📅 **Políticas de Atualização de ERP:**
+- **Gestão de Atualizações**: Desenvolvimento de um processo para controlar a atualização do ERP, incluindo:
+  - **Teste de Atualizações**: Implementação de um ambiente de teste para validar novas versões antes da produção.
+  - **Versionamento**: Criação de um sistema de versionamento para rastrear mudanças e atualizações.
+  - **Reversão de Versões**: Estabelecimento de procedimentos para reverter atualizações em caso de problemas.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- ⚡ **Melhoria de Performance**: O tuning do banco de dados resultou em uma significativa melhoria no desempenho do ERP, beneficiando os usuários com tempos de resposta mais rápidos.
+- 🔄 **Continuidade dos Serviços**: A duplicação dos servidores AD e a implementação de load balancing garantiram que os serviços permanecessem disponíveis, mesmo sob alta demanda.
+- 🔒 **Segurança de Dados**: As rotinas de backup e replicação asseguraram a integridade dos dados e a capacidade de recuperação em caso de desastres, aumentando a confiança nas operações.
+
+---
+
+# 💊 **Projetos: Medicinal Farmácia e Manipulação (2021)**
+
+![Status](https://img.shields.io/badge/status-completo-green) ![Ano](https://img.shields.io/badge/ano-2021-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-segurança-e_infraestrutura-blue)
+
+## 🌐 **Empresa:** Medicinal Farmácia e Manipulação  
+📅 **Período:** `2021`  
+🛠️ **Setor:** Segurança da Informação | Infraestrutura  
+📊 **Categoria:** Antivírus Corporativo | Aquisição de Servidores | Recuperação de Desastres
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+🔒 **Implementar soluções de segurança** robustas e garantir a continuidade das operações através da **aquisição de novos servidores** e **estratégias de recuperação de desastres**.
+
+---
+
+## 📝 **Descrição do Projeto (Ano 2021):**
+
+### 🛡️ **Implementação de Antivírus Corporativo:**
+- **Avaliação e Seleção**: Análise de diversas soluções de antivírus e seleção do software mais adequado para a organização.
+- **Instalação e Configuração**: Implementação do antivírus corporativo em todos os equipamentos da rede, garantindo proteção contra malwares e ataques cibernéticos.
+- **Treinamento de Funcionários**: Realização de workshops e treinamentos para os colaboradores, promovendo a conscientização sobre segurança da informação e boas práticas.
+
+### 🖥️ **Aquisição de Novos Servidores:**
+- **Análise de Necessidades**: Avaliação das necessidades de hardware e desempenho para suportar as operações em crescimento da empresa.
+- **Compra e Implementação**: Aquisição de novos servidores, instalando-os na infraestrutura existente e configurando-os para otimizar a performance.
+- **Integração com a Rede**: Garantia de que os novos servidores fossem integrados adequadamente à rede, com monitoramento contínuo de desempenho.
+
+### 🗄️ **Inventário Geral de Equipamentos:**
+- **Levantamento de Equipamentos**: Realização de um inventário completo de todos os equipamentos de TI, incluindo servidores, desktops, impressoras e dispositivos de rede.
+- **Documentação**: Criação de documentação detalhada para manter um registro preciso da infraestrutura de TI e facilitar futuras manutenções.
+
+### ⚙️ **Implantação de Políticas e Estratégias de Recuperação de Desastre:**
+- **Desenvolvimento de Planos de Recuperação**: Criação de um plano abrangente de recuperação de desastres, incluindo procedimentos para a recuperação de dados e a continuidade das operações em caso de falhas.
+- **Failover de Servidores**: Implementação de soluções de failover para garantir a continuidade dos serviços em caso de falhas nos servidores ou links de comunicação.
+- **Testes e Validação**: Realização de testes regulares das estratégias de recuperação, garantindo que os procedimentos estivessem atualizados e eficazes.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🔒 **Aumento da Segurança**: A implementação do antivírus corporativo reduziu significativamente a vulnerabilidade a ataques cibernéticos.
+- ⚡ **Melhoria de Performance**: A aquisição de novos servidores garantiu que a infraestrutura suportasse o aumento da carga de trabalho e melhorou a experiência dos usuários.
+- 📊 **Gerenciamento Eficiente**: O inventário geral de equipamentos facilitou o gerenciamento e a manutenção da infraestrutura de TI, promovendo eficiência e organização.
+
+---
+
+# 💊 **Projetos: Medicinal Farmácia e Manipulação (2022-2023)**
+
+![Status](https://img.shields.io/badge/status-em_andamento-orange) ![Ano](https://img.shields.io/badge/anos-2022--2023-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-segurança-e_infraestrutura-blue)
+
+## 🌐 **Empresa:** Medicinal Farmácia e Manipulação  
+📅 **Período:** `2022 - 2023`  
+🛠️ **Setor:** Infraestrutura | Comunicação  
+📊 **Categoria:** Sistema de Chamados | Migração de Servidores | Implementação de Comunicação
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+💻 **Modernizar a gestão de chamados e a infraestrutura de TI**, garantindo eficiência na comunicação e no suporte aos usuários.
+
+---
+
+## 📝 **Descrição do Projeto (Anos 2022-2023):**
+
+### 📞 **Mudança do Sistema de Chamados: OTRS para Lansweeper**
+- **Avaliação de Necessidades**: Análise dos requisitos para um novo sistema de gerenciamento de chamados, identificando as limitações do OTRS.
+- **Implementação do Lansweeper**: Migração completa para o Lansweeper, configurando-o para coleta de inventário ativo e monitoramento em tempo real.
+- **Treinamento de Funcionários**: Capacitação dos colaboradores para utilização do novo sistema, promovendo a eficiência na abertura e acompanhamento de chamados.
+
+### 🖥️ **Migração de Versão de Servidores: Windows Server 2012 para 2016**
+- **Planejamento da Migração**: Desenvolvimento de um plano de migração detalhado, incluindo cronograma e etapas de implementação.
+- **Reinstalação e Deploy Completo**: Execução da reinstalação dos servidores, realizando um deploy completo e configurando todos os serviços necessários.
+- **Testes Pós-Migração**: Condução de testes rigorosos para garantir que todos os serviços e aplicações funcionassem corretamente após a migração.
+
+### 💬 **Implementação do Rocket.Chat**
+- **Estratégia de Implantação**: Criação de uma estratégia abrangente para a implantação do Rocket.Chat, incluindo infraestrutura, configuração e suporte.
+- **Adoção e Suporte aos Usuários**: Implementação de um programa de suporte para os usuários, garantindo uma transição suave para o novo sistema de comunicação.
+- **Comunicação Interna**: Estabelecimento de canais de comunicação interna para facilitar a colaboração e a troca de informações entre os colaboradores.
+
+### 💳 **Acompanhamento e Suporte à Implantação da API Pix**
+- **Integração com ERP**: Colaboração na integração da API Pix com o sistema ERP da empresa, facilitando transações e pagamentos.
+- **Testes de Integração**: Realização de testes para garantir que a integração funcionasse corretamente e sem problemas, permitindo uma experiência de usuário eficiente.
+- **Suporte Contínuo**: Provisão de suporte contínuo durante a fase de testes, garantindo que qualquer problema fosse rapidamente resolvido.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🔄 **Modernização do Atendimento**: A mudança para o Lansweeper melhorou a gestão de chamados e a visibilidade dos ativos na rede.
+- 🚀 **Infraestrutura Atualizada**: A migração para Windows Server 2016 proporcionou melhorias significativas em desempenho e segurança.
+- 🗨️ **Comunicação Eficiente**: A implementação do Rocket.Chat facilitou a comunicação entre equipes, promovendo colaboração e produtividade.
+- 💳 **Pagamentos Facilitados**: A integração com a API Pix permitiu pagamentos mais rápidos e eficientes, melhorando a experiência do usuário.
+
+---
+# 📊 **CMDB e Gerenciamento de Configuração (2019-2023)**
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Ano](https://img.shields.io/badge/anos-2019--2023-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-gestão_de_configuração-blue)
+
+## 🌐 **Empresa:** Medicinal Farmácia e Manipulação  
+📅 **Período:** `2019 - 2023`  
+🛠️ **Setor:** Infraestrutura | Configuração  
+📊 **Categoria:** CMDB | Orquestração | Procedimentos
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+💻 **Desenvolver uma base de dados de gerenciamento de configuração (CMDB)** para garantir a transparência, rastreabilidade e eficiência na gestão de ativos e configurações de TI.
+
+---
+
+## 📝 **Descrição do Projeto:**
+
+### 📂 **Criação da CMDB:**
+- **Documentação Completa**: Durante os 5 anos, foram documentados **inúmeros procedimentos, problemas e demandas**, criando um repositório rico em informações para fácil acesso e consulta.
+- **Configuração de Scripts e Manuais**: Criação de uma biblioteca de scripts e manuais de configuração para diversos sistemas, facilitando a resolução de problemas e a realização de tarefas administrativas.
+
+### 🔧 **Orquestração de Deploy de Configuração:**
+- **Implantação de Orquestração**: Implementação de soluções de orquestração para automação de deployments de configuração em ambientes Windows e Linux.
+  - **Windows**: Utilização de **Group Policy Objects (GPO)** para gestão e configuração de software e políticas.
+  - **Linux**: Uso do **Puppet Bolt** para automação de deploy, permitindo uma implementação rápida e eficiente de novas ferramentas e soluções.
+
+### 🚀 **Automação de Instalações:**
+- **Instalação Transparente**: O atalho de novos softwares e plataformas aparecia diretamente nas telas dos usuários, sem necessidade de intervenção manual, garantindo uma experiência de usuário fluida.
+- **Scripts de Configuração**: Desenvolvimento de scripts personalizados para facilitar a instalação e configuração de novos softwares, assegurando que todos os padrões da empresa fossem seguidos.
+
+### 🛡️ **Gestão de Políticas e Configurações:**
+- **Google Chrome em Nível Empresarial**: Implementação de políticas de configuração para o Google Chrome em ambientes Windows e Linux, garantindo consistência e segurança em todos os dispositivos.
+  - **Windows**: Configurações gerenciadas via GPO.
+  - **Linux**: Políticas de configuração adaptadas para o ambiente Linux, assegurando que as melhores práticas de segurança fossem seguidas.
+
+### 📋 **Documentação e Procedimentos:**
+- **Manuais e Repositórios**: Criação de manuais detalhados e repositórios de configuração para referência futura e treinamento de novos colaboradores.
+- **Rastreamento de Mudanças**: Implementação de um sistema para documentar e rastrear todas as mudanças feitas na infraestrutura, garantindo conformidade e segurança.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 📊 **Transparência nas Configurações**: A criação da CMDB possibilitou um gerenciamento eficaz dos ativos, garantindo que todas as informações estivessem atualizadas e acessíveis.
+- ⚙️ **Eficiência nas Instalações**: A orquestração de deploy reduziu significativamente o tempo de instalação de novos softwares e atualizações.
+- 🔒 **Segurança Aumentada**: A gestão centralizada de políticas para o Google Chrome garantiu um nível elevado de segurança nas configurações empresariais.
+- 📈 **Melhoria Contínua**: A documentação completa dos procedimentos permitiu a identificação de áreas para melhorias contínuas e redução de problemas recorrentes.
+
+---
+
 
 # 🛒 **Projeto: Inventário Completo de Rede - Angeloni (2015)**
 
