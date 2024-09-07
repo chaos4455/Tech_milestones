@@ -18,7 +18,7 @@
 
 ### Métricas de Chamados
 
-- **Número Total de Chamados**: ![Tickets](https://img.shields.io/badge/Número%20Total%20de%20Chamados-50.000%2B-%23FF5722?style=flat&logo=ticket)
+- **Número Total de Chamados atendido em 5 anos **: ![Tickets](https://img.shields.io/badge/Número%20Total%20de%20Chamados-5.000+%2B-%23FF5722?style=flat&logo=ticket)
 - **Tempo Médio de Resolução**: ![Resolution Time](https://img.shields.io/badge/Tempo%20Médio%20de%20Resolução-30%20minutos-%230E76A8?style=flat&logo=clock)
 - **Tempo Médio de Resposta Remoto**: ![Response Time](https://img.shields.io/badge/Tempo%20Médio%20de%20Resposta%20Remoto-5%20minutos%20para%2090%25%20dos%20problemas-%23F5A623?style=flat&logo=clock)
 - **Percentual de Problemas Documentados e Catalogados**: ![Documentation](https://img.shields.io/badge/Percentual%20de%20Problemas%20Documentados%20e%20Catalogados-100%25-%230E76A8?style=flat&logo=book)
