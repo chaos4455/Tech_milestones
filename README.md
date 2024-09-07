@@ -73,9 +73,6 @@ Durante minha atuação como **Administrador de Redes** e **Analista de TI** em 
 
 **Porte da Empresa**: Grande 🏢  
 
-**Faturamento Diário**: ![Revenue](https://img.shields.io/badge/Faturamento%20Diário-R$300.000%2B-%230F6C9D?style=flat&logo=money)  
-**Número de Funcionários**: ![Employees](https://img.shields.io/badge/Número%20de%20Funcionários-200%2B-%234C8BF5?style=flat&logo=users)  
-
 **Sistemas e Servidores**: Diversos sistemas e servidores de alta capacidade 🖥️  
 
 **Ativos de TI**: Diversos ativos de TI críticos 🛠️
