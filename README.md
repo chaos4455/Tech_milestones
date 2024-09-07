@@ -17,9 +17,9 @@
 **Ativos de TI**: Diversos ativos de TI críticos 🛠️
 
 ```mermaid
-
 graph TD
-    A[Diretoria] --> B[TI]
+    A[Diretoria]
+    A --> B[TI]
     A --> C[Produção]
     A --> D[Financeiro]
     A --> E[RH]
@@ -119,6 +119,7 @@ graph TD
         I --> AO
         I --> AP
     end
+
 ```
 
 ### Métricas de Chamados
