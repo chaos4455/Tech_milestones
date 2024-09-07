@@ -193,7 +193,7 @@ _Janeiro 2006 - Junho 2010_
 
 ---
 
-## Outros rojetos Relevantes 🔍
+## Outros projetos Relevantes 🔍
 
 ### ITSM e Suporte Técnico 💼
 
