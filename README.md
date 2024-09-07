@@ -7,44 +7,57 @@
 ### ITSM e Suporte Técnico  São minhas principais áreas de atuação - Operação de IT e ITSM em empresas de rotina empresariais e operacionais💼
 
 - **[Implementação de Sistema de Gestão de Incidentes](#)**: Criação de um sistema centralizado para gerenciar e resolver incidentes rapidamente.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-ITSM-orange) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ServiceNow-green) ![Benefício](https://img.shields.io/badge/Benefit-Faster%20Resolution-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-ITSM-orange) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ServiceNow-green) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Resolu%C3%A7%C3%A3o%20Mais%20R%C3%A1pida-brightgreen)
+
 - **[Desenvolvimento de Plataforma de Help Desk](#)**: Plataforma integrada para suporte ao cliente e gestão de tickets.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Help%20Desk-red) ![Método](https://img.shields.io/badge/Methodology-Agile-yellow) ![Framework](https://img.shields.io/badge/Framework-Zendesk-blue) ![Benefício](https://img.shields.io/badge/Benefit-Improved%20Customer%20Support-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Help%20Desk-red) ![Metodologia](https://img.shields.io/badge/Metodologia-%C3%81gil-yellow) ![Framework](https://img.shields.io/badge/Framework-Zendesk-blue) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Melhoria%20no%20Suporte%20ao%20Cliente-brightgreen)
+
 - **[Automatização de Processos de Suporte Técnico](#)**: Scripts e ferramentas para automatizar processos de suporte, reduzindo o tempo de resposta.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Automation-purple) ![Método](https://img.shields.io/badge/Methodology-DevOps-blue) ![Framework](https://img.shields.io/badge/Framework-Puppet-orange) ![Benefício](https://img.shields.io/badge/Benefit-Reduced%20Response%20Time-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Automation-purple) ![Metodologia](https://img.shields.io/badge/Metodologia-DevOps-blue) ![Framework](https://img.shields.io/badge/Framework-Puppet-orange) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Redu%C3%A7%C3%A3o%20do%20Tempo%20de%20Resposta-brightgreen)
+
 - **[Criação de Base de Conhecimento Interna](#)**: Desenvolvimento de uma base de dados para documentação de problemas e soluções frequentes.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Knowledge%20Base-green) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Confluence-yellow) ![Benefício](https://img.shields.io/badge/Benefit-Centralized%20Information-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Base%20de%20Conhecimento-green) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Confluence-yellow) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Informa%C3%A7%C3%A3o%20Centralizada-brightgreen)
+
 - **[Implementação de Sistema de Monitoramento de Performance](#)**: Sistema para monitorar e analisar a performance dos serviços de suporte.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Performance%20Monitoring-blue) ![Método](https://img.shields.io/badge/Methodology-Agile-yellow) ![Framework](https://img.shields.io/badge/Framework-Prometheus-orange) ![Benefício](https://img.shields.io/badge/Benefit-Enhanced%20Monitoring-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Monitoramento%20de%20Performance-blue) ![Metodologia](https://img.shields.io/badge/Metodologia-%C3%81gil-yellow) ![Framework](https://img.shields.io/badge/Framework-Prometheus-orange) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Monitoramento%20Avan%C3%A7ado-brightgreen)
+
 - **[Desenvolvimento de Ferramenta de Diagnóstico de Problemas](#)**: Ferramenta para análise e diagnóstico eficiente de problemas técnicos.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Diagnostics-red) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Nagios-green) ![Benefício](https://img.shields.io/badge/Benefit-Faster%20Diagnosis-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Diagn%C3%B3stico-red) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Nagios-green) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Diagn%C3%B3stico%20Mais%20R%C3%A1pido-brightgreen)
+
 - **[Criação de Sistema de Avaliação de Qualidade de Atendimento](#)**: Sistema para avaliar e melhorar a qualidade do atendimento ao cliente.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Quality%20Assessment-orange) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Surveys-green) ![Benefício](https://img.shields.io/badge/Benefit-Improved%20Service%20Quality-brightgreen)
-- **[Implementação de Sistema de Gestão de Solicitações de Serviço](#)**: Sistema para gerenciar solicitações e solicitações de serviço de maneira eficiente.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Service%20Request%20Management-blue) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Request%20Management-green) ![Benefício](https://img.shields.io/badge/Benefit-Efficient%20Service%20Management-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Avalia%C3%A7%C3%A3o%20de%20Qualidade-orange) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Surveys-green) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Melhoria%20na%20Qualidade%20do%20Servi%C3%A7o-brightgreen)
+
+- **[Implementação de Sistema de Gestão de Solicitações de Serviço](#)**: Sistema para gerenciar solicitações de serviço de maneira eficiente.  
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Gest%C3%A3o%20de%20Solicita%C3%A7%C3%B5es-blue) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Request%20Management-green) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Gest%C3%A3o%20Eficiente%20de%20Servi%C3%A7os-brightgreen)
+
 - **[Desenvolvimento de Ferramenta de Relatórios de Suporte](#)**: Ferramenta para gerar relatórios detalhados sobre o desempenho e atividades do suporte técnico.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Reporting-yellow) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Grafana-green) ![Benefício](https://img.shields.io/badge/Benefit-Detailed%20Insights-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Relat%C3%B3rios-yellow) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Grafana-green) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Insights%20Detalhados-brightgreen)
 
 - **[Projeto de Migração de Sistemas](#)**: Migramos todos os sistemas para uma nova infraestrutura, resultando em uma redução de 30% no tempo de inatividade.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Cloud%20Migration-blue) ![Método](https://img.shields.io/badge/Methodology-Agile-yellow) ![Framework](https://img.shields.io/badge/Framework-AWS-orange) ![Benefício](https://img.shields.io/badge/Benefit-Reduced%20Downtime-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Migra%C3%A7%C3%A3o%20para%20Nuvem-blue) ![Metodologia](https://img.shields.io/badge/Metodologia-%C3%81gil-yellow) ![Framework](https://img.shields.io/badge/Framework-AWS-orange) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Redu%C3%A7%C3%A3o%20do%20Tempo%20de%20Inatividade-brightgreen)
+
 - **[Implementação de Políticas de Segurança](#)**: Desenvolvi e implementei políticas de segurança que aumentaram a proteção dos dados em 50%.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Security%20Policies-red) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ISO%2027001-green) ![Benefício](https://img.shields.io/badge/Benefit-Increased%20Data%20Protection-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Pol%C3%ADticas%20de%20Seguran%C3%A7a-red) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ISO%2027001-green) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Aumento%20da%20Prote%C3%A7%C3%A3o%20de%20Dados-brightgreen)
+
 - **[Automatização de Processos](#)**: Automatizamos processos-chave, o que aumentou a eficiência em 40%.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Automation-yellow) ![Método](https://img.shields.io/badge/Methodology-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-Ansible-blue) ![Benefício](https://img.shields.io/badge/Benefit-Increased%20Efficiency-brightgreen)
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Automatiza%C3%A7%C3%A3o-yellow) ![Metodologia](https://img.shields.io/badge/Metodologia-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-Ansible-blue) ![Benef%C3%ADcio](https://img.shields.io/badge/Benef%C3%ADcio-Aumento%20da%20Efici%C3%AAncia-brightgreen)
 
 ### Active Directory e Windows Server 🖥️
 
-- **[Configuração e Administração de Active Directory](#)**: Implementação e gerenciamento de Active Directory para controle de acesso e autenticação.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Active%20Directory-green) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-yellow) ![Benefício](https://img.shields.io/badge/Benefit-Centralized%20Access-brightgreen)
-- **[Implementação de Políticas de Grupo](#)**: Criação e gestão de políticas de grupo para padronizar configurações e segurança.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Group%20Policies-blue) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-green) ![Benefício](https://img.shields.io/badge/Benefit-Standardized%20Configurations-brightgreen)
-- **[Atualização e Manutenção de Windows Server](#)**: Atualização e manutenção de servidores Windows para garantir segurança e performance.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Windows%20Server-red) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-green) ![Benefício](https://img.shields.io/badge/Benefit-Secure%20and%20Up-to-date-brightgreen)
-- **[Criação de Ambiente de Teste para Active Directory](#)**: Desenvolvimento de um ambiente de teste para avaliar novas políticas e configurações.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Test%20Environment-orange) ![Método](https://img.shields.io/badge/Methodology-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-green) ![Benefício](https://img.shields.io/badge/Benefit-Safe%20Testing-brightgreen)
-- **[Automatização de Processos em Windows Server](#)**: Scripts e ferramentas para automatizar tarefas administrativas em servidores Windows.  
-  ![Tecnologia](https://img.shields.io/badge/Technology-Automation-yellow) ![Método](https://img.shields.io/badge/Methodology-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-PowerShell-blue) ![Benefício](https://img.shields.io/badge/Benefit-Efficient%20Administration-brightgreen)
+- **[Configuração e Administração do Active Directory](#)**: Implementação e gerenciamento do Active Directory para controle de acesso e autenticação.  
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Active%20Directory-green) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-yellow) ![Benefício](https://img.shields.io/badge/Benefício-Acesso%20Centralizado-brightgreen)
 
+- **[Implementação de Políticas de Grupo](#)**: Criação e gestão de políticas de grupo para padronizar configurações e segurança.  
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Políticas%20de%20Grupo-blue) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-green) ![Benefício](https://img.shields.io/badge/Benefício-Configurações%20Padronizadas-brightgreen)
+
+- **[Atualização e Manutenção do Windows Server](#)**: Atualização e manutenção de servidores Windows para garantir segurança e performance.  
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Windows%20Server-red) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-green) ![Benefício](https://img.shields.io/badge/Benefício-Segurança%20e%20Atualizações-brightgreen)
+
+- **[Criação de Ambiente de Teste para Active Directory](#)**: Desenvolvimento de um ambiente de teste para avaliar novas políticas e configurações.  
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Ambiente%20de%20Teste-orange) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-Microsoft-green) ![Benefício](https://img.shields.io/badge/Benefício-Testes%20Seguros-brightgreen)
+
+- **[Automatização de Processos no Windows Server](#)**: Scripts e ferramentas para automatizar tarefas administrativas em servidores Windows.  
+  ![Tecnologia](https://img.shields.io/badge/Tecnologia-Automação-yellow) ![Metodologia](https://img.shields.io/badge/Metodologia-DevOps-purple) ![Framework](https://img.shields.io/badge/Framework-PowerShell-blue) ![Benefício](https://img.shields.io/badge/Benefício-Administração%20Eficiente-brightgreen)
 
 ## Trajetória Profissional recente: 2019-2023  📈
 
