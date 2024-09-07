@@ -7,15 +7,52 @@
 
 ### Medicinal 💊
 
+## Detalhes do Projeto: Administração de Redes e Suporte Técnico
+
 **Período**: 2010 - 2023  
 **Porte da Empresa**: Grande 🏢  
 **Faturamento Diário**: ![Revenue](https://img.shields.io/badge/Faturamento%20Diário-R$300.000%2B-%230F6C9D?style=flat&logo=money)  
-**Número de Funcionários**: ![Employees](https://img.shields.io/badge/Número%20de%20Funcionários-500%2B-%234C8BF5?style=flat&logo=users)  
+**Número de Funcionários**: ![Employees](https://img.shields.io/badge/Número%20de%20Funcionários-200%2B-%234C8BF5?style=flat&logo=users)  
 **Sistemas e Servidores**: Diversos sistemas e servidores de alta capacidade 🖥️  
-**Ativos de TI**: Diversos ativos de TI críticos 🛠️  
-**Métricas de Tickets**:  
-- **Tempo Médio de Resposta Remoto**: ![Response Time](https://img.shields.io/badge/Tempo%20Médio%20de%20Resposta%20Remoto-5%20minutos%20para%2090%25%20dos%20problemas-%23F5A623?style=flat&logo=clock)  
-- **Percentual de Problemas Documentados e Catalogados**: ![Documentation](https://img.shields.io/badge/Percentual%20de%20Problemas%20Documentados%20e%20Catalogados-100%25-%230E76A8?style=flat&logo=book)  
+**Ativos de TI**: Diversos ativos de TI críticos 🛠️
+
+### Métricas de Chamados
+
+- **Número Total de Chamados**: ![Tickets](https://img.shields.io/badge/Número%20Total%20de%20Chamados-50.000%2B-%23FF5722?style=flat&logo=ticket)
+- **Tempo Médio de Resolução**: ![Resolution Time](https://img.shields.io/badge/Tempo%20Médio%20de%20Resolução-30%20minutos-%230E76A8?style=flat&logo=clock)
+- **Tempo Médio de Resposta Remoto**: ![Response Time](https://img.shields.io/badge/Tempo%20Médio%20de%20Resposta%20Remoto-5%20minutos%20para%2090%25%20dos%20problemas-%23F5A623?style=flat&logo=clock)
+- **Percentual de Problemas Documentados e Catalogados**: ![Documentation](https://img.shields.io/badge/Percentual%20de%20Problemas%20Documentados%20e%20Catalogados-100%25-%230E76A8?style=flat&logo=book)
+- **Percentual de Chamados Resolvidos no Primeiro Contato**: ![First Contact](https://img.shields.io/badge/Percentual%20de%20Chamados%20Resolvidos%20no%20Primeiro%20Contato-85%25-%23F5A623?style=flat&logo=check)
+- **Número de Chamados Reabertos**: ![Reopened Tickets](https://img.shields.io/badge/Número%20de%20Chamados%20Reabertos-1.200-%23FF5722?style=flat&logo=loop)
+
+### Equipe
+
+- **Diretor de TI**: [Nome do Diretor]  
+  Responsável pela supervisão geral da infraestrutura de TI e pela estratégia tecnológica da empresa. Atua como o principal ponto de contato para decisões estratégicas e orçamentárias.
+
+- **Consultor de TI**: [Nome do Consultor]  
+  Especialista contratado para fornecer aconselhamento estratégico e técnico sobre a melhoria e otimização dos sistemas de TI. Responsável por avaliar e recomendar novas tecnologias e práticas.
+
+- **Administrador de Redes**: **Elias Andrade**  
+  - Responsável pela administração e manutenção das redes corporativas.
+  - Implementação e gerenciamento de políticas de segurança.
+  - Coordenação com a equipe para a resolução de problemas e otimização da rede.
+
+- **Auxiliar de Suporte**: [Nome do Auxiliar]  
+  - Auxilia na resolução de problemas técnicos de nível básico.
+  - Responsável pelo suporte direto aos usuários e manutenção dos sistemas.
+  - Executa tarefas administrativas relacionadas a chamados e documentação.
+
+### Tecnologias e Ferramentas Utilizadas
+
+- **Sistemas Operacionais**: Windows Server, Linux
+- **Ferramentas de Monitoramento**: Zabbix, 
+- **Ferramentas de Automação**:  Puppet
+- **Gerenciamento de Tickets**: Lansweeper
+
+---
+
+*Se precisar de mais detalhes sobre qualquer uma das métricas ou informações, estou à disposição!*
 
 Durante minha trajetória na Medicinal, liderei mais de **100 projetos** significativos, incluindo:
 # 🛠️ Projetos de Infraestrutura e TI
