@@ -6,6 +6,8 @@
 
 ### ITSM e Suporte Técnico  São minhas principais áreas de atuação - Operação de IT e ITSM em empresas de rotina empresariais e operacionais💼
 
+### abaixo alguns exemplos de várias documentações, procesoss, projetos, manuais, scritps, configurações, e prints que mostram a minha jornada e realizações ao longo dos últimos 14 anos.💼
+
 - **[Implementação de Sistema de Gestão de Incidentes](#)**: Criação de um sistema centralizado para gerenciar e resolver incidentes rapidamente.  
   ![Tecnologia](https://img.shields.io/badge/Tecnologia-ITSM-orange) ![Metodologia](https://img.shields.io/badge/Metodologia-ITIL-blue) ![Framework](https://img.shields.io/badge/Framework-ServiceNow-green) ![Benefício](https://img.shields.io/badge/Benef%C3%ADcio-Resolu%C3%A7%C3%A3o%20Mais%20R%C3%A1pida-brightgreen)
 
