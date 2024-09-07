@@ -47,40 +47,6 @@ Durante minha atuação como **Administrador de Redes** e **Analista de TI** em 
   - **Gerenciamento de Servidores e Sistemas:** ![Servidores](https://img.shields.io/badge/Gerenciamento%20de%20Servidores-Monitoramento%20Ativo-%237A42F4?style=flat&logo=server)
   - **Controle de Ativos de TI:** ![Ativos de TI](https://img.shields.io/badge/Controle%20de%20Ativos-Preciso-%2337B6D3?style=flat&logo=inventory)
 
-### 🏭 Produção
-- **Serviço Prestado:**
-  - **Gerenciamento de Sistemas de Controle de Inventário:** ![Controle de Inventário](https://img.shields.io/badge/Gerenciamento%20de%20Inventário-Precisão-%233D84D2?style=flat&logo=box)
-  - **Assistência Técnica para Sistemas de Recepção e Despacho:** ![Recepção e Despacho](https://img.shields.io/badge/Suporte%20Recepção%20e%20Despacho-Suporte%20Ágil-%234CAF50?style=flat&logo=truck)
-  - **Suporte a Sistemas de Ponto de Venda:** ![Ponto de Venda](https://img.shields.io/badge/Suporte%20Ponto%20de%20Venda-Eficiência%20Garantida-%236B8E23?style=flat&logo=shopping-cart)
-
-### 💵 Financeiro
-- **Serviço Prestado:**
-  - **Suporte a Sistemas de Contabilidade e Finanças:** ![Contabilidade](https://img.shields.io/badge/Suporte%20Contabilidade-Preciso-%233AB02C?style=flat&logo=money)
-  - **Assistência para Processamento de Dados Financeiros:** ![Processamento Financeiro](https://img.shields.io/badge/Processamento%20Financeiro-Rápido-%2310B981?style=flat&logo=calculator)
-
-### 👥 Recursos Humanos
-- **Serviço Prestado:**
-  - **Suporte para Sistemas de Gestão de Pessoal e Folha de Pagamento:** ![Gestão de Pessoal](https://img.shields.io/badge/Suporte%20Gestão%20de%20Pessoal-Completo-%232F9D7D?style=flat&logo=group)
-  - **Assistência Técnica para Sistemas de Recrutamento:** ![Recrutamento](https://img.shields.io/badge/Suporte%20Recrutamento-Fácil-%239E9D24?style=flat&logo=job)
-
-### 📈 Marketing
-- **Serviço Prestado:**
-  - **Suporte a Sistemas de CRM e Análise de Mercado:** ![CRM](https://img.shields.io/badge/Suporte%20CRM-Avançado-%2358C9F3?style=flat&logo=business)
-  - **Assistência Técnica para Ferramentas de Criação de Campanhas:** ![Campanhas](https://img.shields.io/badge/Suporte%20Campanhas-Criação%20Eficaz-%23E91E63?style=flat&logo=ad)
-
-### 🚚 Logística
-- **Serviço Prestado:**
-  - **Suporte a Sistemas de Gerenciamento de Armazéns:** ![Armazéns](https://img.shields.io/badge/Suporte%20Armazéns-Logística%20Eficiente-%237C8D4C?style=flat&logo=warehouse)
-
-### 🤝 Pós-Vendas
-- **Serviço Prestado:**
-  - **Suporte a Sistemas de Atendimento ao Cliente:** ![Atendimento ao Cliente](https://img.shields.io/badge/Suporte%20Atendimento-Qualidade%20Garantida-%232C6D8F?style=flat&logo=customer-service)
-  - **Assistência Técnica para Ferramentas de Suporte:** ![Suporte Técnico](https://img.shields.io/badge/Suporte%20Técnico-Resolução%20Ágil-%233B5998?style=flat&logo=tools)
-
-### 🎓 Treinamento
-- **Serviço Prestado:**
-  - **Suporte a Plataformas de E-Learning e Gestão de Aprendizado:** ![E-Learning](https://img.shields.io/badge/Suporte%20E--Learning-Plataformas%20Atualizadas-%237C4DFF?style=flat&logo=education)
-  - **Assistência Técnica para Sistemas de Desenvolvimento de Habilidades:** ![Desenvolvimento de Habilidades](https://img.shields.io/badge/Suporte%20Desenvolvimento-Habilidades%20Avançadas-%23FF6F61?style=flat&logo=skill)
 
 ## 🏅 Contribuições e Valor
 
@@ -194,6 +160,360 @@ _Janeiro 2006 - Junho 2010_
 ---
 
 ## Outros projetos Relevantes 🔍
+
+# 🛠️ Projeto: Definição de Fluxos de Suporte Técnico - Wnet (2010)
+
+## 🌐 **Empresa:** Wnet - Provedor de Internet
+## 📅 **Período:** 2010
+## 🎯 **Objetivo:** 
+Definir e estruturar os fluxos de atendimento e suporte técnico da empresa, atendendo usuários de provedor de internet, hospedagem de sites e emails.
+
+---
+
+## 📋 **Descrição do Projeto:**
+Este foi meu primeiro projeto na área de Tecnologia da Informação, focado em estabelecer e organizar os fluxos de atendimento ao cliente da Wnet. O projeto envolveu:
+
+- **Definição de fluxos de atendimento:** Níveis de suporte técnico (N1, N2 e escalonamento para N3);
+- **Criação de scripts de atendimento:** Para uso em diversos canais, como email e telefone;
+- **Suporte a usuários:** Envolvendo problemas com provedor de internet, hospedagem de sites e emails;
+- **Organização de processos:** Estruturar o fluxo de atendimento técnico com clara definição de responsabilidades e níveis de escalonamento.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- Criação de **fluxos de suporte** claros e eficientes, melhorando a resolução de problemas de clientes.
+- Definição de **scripts de atendimento técnico** que garantiram respostas padronizadas e consistentes em todos os níveis de suporte.
+- Estabelecimento de um **processo de escalonamento** que permitiu um fluxo contínuo entre os níveis de suporte N1, N2 e N3, garantindo que problemas mais complexos fossem rapidamente resolvidos.
+- **Suporte direto ao usuário**, lidando com questões técnicas em tempo real, oferecendo soluções para problemas de internet, hospedagem de sites e emails.
+
+---
+
+## 🛠️ **Tecnologias e Ferramentas Utilizadas:**
+- 📞 Atendimento por telefone e email
+- 🖥️ Ferramentas de suporte técnico ao cliente (Tickets)
+- 📝 Documentação de processos e fluxos de suporte
+
+# 🛠️ **Projeto: Definição de Fluxos de Suporte Técnico** - Wnet (2010)
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Nível](https://img.shields.io/badge/nível-iniciante-blue) ![Ano](https://img.shields.io/badge/ano-2010-lightgrey) ![Área](https://img.shields.io/badge/área-suporte_ao_cliente-yellow)
+
+## 🌐 **Empresa:** Wnet - Provedor de Internet
+📅 **Período:** `2010`  
+🏢 **Setor:** Suporte Técnico | ISP | TI  
+📊 **Categoria:** Gestão de Processos | Atendimento ao Cliente
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+🔧 **Definir e estruturar fluxos de atendimento** e **suporte técnico** na Wnet, melhorando a eficiência do atendimento e resolução de problemas, com foco nos serviços de provedor de internet, hospedagem de sites e emails.
+
+---
+
+## 📝 **Descrição do Projeto:**
+💡 Esse projeto foi crucial para organizar e otimizar o **atendimento ao cliente**. A criação e definição de fluxos de trabalho e **escalonamento** permitiu um suporte mais eficiente, com respostas rápidas e precisas. 
+
+### 📌 **Tarefas principais:**
+- 🛡️ **Definição dos níveis de suporte**:  
+  - 🔰 Nível 1 (**N1**): Suporte básico e atendimento inicial.
+  - ⚙️ Nível 2 (**N2**): Problemas intermediários e técnicos avançados.
+  - 🚀 Nível 3 (**N3**): Escalonamento para equipe especializada.
+  
+- 📨 **Criação de scripts de atendimento** para diferentes canais:  
+  - 💬 **Telefone**
+  - 📧 **Email**
+  
+- 👥 **Suporte técnico a usuários** de **internet**, **hospedagem de sites**, e **emails**.
+
+- 📈 **Organização de processos internos**: Definição clara de **fluxos de trabalho** e **responsabilidades**.
+
+---
+
+## 🚀 **Principais Contribuições e Resultados:**
+![Impacto](https://img.shields.io/badge/impacto-alto-orange)  
+- ✅ **Melhoria no tempo de resposta** e **satisfação do cliente** com a criação de **fluxos claros de atendimento**.
+- 💡 Padronização de **scripts de atendimento** que geraram consistência nas respostas e melhoraram a experiência do usuário.
+- 📞 Integração de processos de **escalonamento ágil**, solucionando problemas complexos com mais rapidez.
+- 👨‍💻 Suporte técnico a **mais de 1000 usuários ativos**, abrangendo problemas de internet, sites e emails.
+
+---
+
+## 🛠️ **Tecnologias, Ferramentas e Metodologias Utilizadas:**
+![Ferramentas](https://img.shields.io/badge/ferramentas-CRM_Tickets-yellowgreen) ![Comunicação](https://img.shields.io/badge/comunicação-Telefone_Email-blueviolet) ![Metodologia](https://img.shields.io/badge/metodologia-Escalonamento-lightblue) ![Documentação](https://img.shields.io/badge/documentação-Processos_e_Fluxos-informational)  
+- 📞 **Atendimento via Telefone** e **Email**
+- 🛡️ **CRM de Tickets** para gestão de chamados e suporte.
+- 📝 **Documentação** detalhada de **processos** e **fluxos de suporte**.
+  
+---
+
+## 💡 **Lições Aprendidas:**
+- 📊 **Otimização de processos internos** gera impacto direto na **satisfação do cliente**.
+- 🔧 **Definir níveis de suporte** claros facilita a organização e o **tempo de resposta** do atendimento.
+
+# 🛠️ **Projeto: Inventário Completo do Parque de TI** - Hospital Santa Rita (2011)
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Ano](https://img.shields.io/badge/ano-2011-lightgrey) ![Área](https://img.shields.io/badge/área-TI-blue) ![Impacto](https://img.shields.io/badge/impacto-alto-orange)
+
+## 🌐 **Empresa:** Hospital Santa Rita
+📅 **Período:** `2011`  
+🏥 **Setor:** Hospitalar | Gestão de Ativos de TI  
+📊 **Categoria:** Infraestrutura de TI | Gerenciamento de Ativos
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+📋 Realizar um **inventário completo** de toda a infraestrutura de TI do hospital, mapeando todos os **ativos** como **computadores**, **impressoras**, **servidores** e **equipamentos de rede**.
+
+---
+
+## 📝 **Descrição do Projeto:**
+🔍 Este projeto teve como objetivo a organização e catalogação de todos os ativos de TI, criando um inventário detalhado para melhorar a **gestão de recursos tecnológicos** do hospital.
+
+### 📌 **Tarefas principais:**
+- 🖥️ **Mapeamento de ativos**: Computadores, servidores, impressoras e switches.
+- 🗄️ **Registro de equipamentos de rede** e distribuição geográfica no hospital.
+- 📝 Criação de **documentação detalhada** com especificações, localização e status de cada equipamento.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 📋 **Inventário completo e atualizado** de todo o parque tecnológico, facilitando a gestão e manutenção dos ativos.
+- 📈 Melhoria na **gestão de TI** com um banco de dados de todos os dispositivos e suas localizações.
+- 🛠️ Maior **eficiência na resolução de problemas**, com informações centralizadas e acessíveis.
+
+---
+
+## 🛠️ **Ferramentas e Tecnologias Utilizadas:**
+![Ferramentas](https://img.shields.io/badge/ferramentas-Sistemas_de_Inventário-yellowgreen) ![Documentação](https://img.shields.io/badge/documentação-Gestão_de_Ativos-informational)  
+- 🖥️ **Inventário físico e digital** de ativos
+- 📂 **Documentação em Excel e sistemas de gestão de ativos**
+
+# 🚨 **Projeto: Crise do Vírus Conficker** - Hospital Santa Rita (2011)
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Ano](https://img.shields.io/badge/ano-2011-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-crítico-red) ![Área](https://img.shields.io/badge/área-segurança_da_informação-orange)
+
+## 🌐 **Empresa:** Hospital Santa Rita
+📅 **Período:** `2011`  
+🏥 **Setor:** Hospitalar | Segurança da Informação  
+⚠️ **Categoria:** Segurança de TI | Crise de Malware
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+🦠 Combater e erradicar a infecção massiva pelo vírus **Conficker** em todos os computadores do hospital, garantindo a **segurança da rede** e a **proteção dos dados**.
+
+---
+
+## 📝 **Descrição do Projeto:**
+💣 Um ataque de **malware Conficker** comprometeu toda a infraestrutura de TI do hospital, que na época não tinha **antivírus** instalado. O projeto envolveu **medidas emergenciais** para isolar a ameaça, limpar o vírus e implementar soluções de segurança para proteger os sistemas.
+
+### 📌 **Tarefas principais:**
+- 🛡️ **Implementação de um Honeypot** para identificar e isolar a propagação do vírus.
+- 💾 **Instalação de antivírus** em todos os computadores da rede.
+- 🔄 **Limpeza manual** dos sistemas infectados e recuperação de arquivos comprometidos.
+- 🚀 **Treinamento da equipe de TI** sobre boas práticas de segurança e uso adequado de antivírus.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🛠️ **Erradicação completa** do vírus Conficker e restauração da integridade da rede do hospital.
+- 🖥️ Implementação de **antivírus em toda a rede**, garantindo **proteção contínua** contra novas ameaças.
+- 📊 **Prevenção de novos ataques**, através da instalação de firewalls e treinamento da equipe para medidas preventivas.
+
+---
+
+## 🛠️ **Ferramentas e Tecnologias Utilizadas:**
+![Ferramentas](https://img.shields.io/badge/ferramentas-Honeypot-yellowgreen) ![Antivírus](https://img.shields.io/badge/antivírus-Implementado-blueviolet) ![Segurança](https://img.shields.io/badge/segurança-Procedimentos_Críticos-lightblue)  
+- 🔧 **Honeypot** para análise e contenção de malwares.
+- 🛡️ **Antivírus** e ferramentas de segurança para rede.
+- 🔐 **Firewall** e monitoramento constante da rede.
+
+# 🛠️ **Projeto: Instalação Completa da Clínica Externa** - Hospital Santa Rita (2011)
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Ano](https://img.shields.io/badge/ano-2011-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-médio-yellow) ![Área](https://img.shields.io/badge/área-Integração_de_TI-orange)
+
+## 🌐 **Empresa:** Hospital Santa Rita
+📅 **Período:** `2011`  
+🏥 **Setor:** Hospitalar | Infraestrutura de TI  
+🏗️ **Categoria:** Instalação e Infraestrutura
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+🏥 Realizar a **instalação completa** do parque de TI da **clínica externa**, incluindo a configuração de máquinas, servidores e apoio à **mudança física** do setor de **oncologia**.
+
+---
+
+## 📝 **Descrição do Projeto:**
+🏗️ O projeto envolveu a **instalação do parque tecnológico** da clínica externa, configurando **computadores, servidores** e demais ativos de TI para suportar o funcionamento de **laboratórios** e **consultórios**. Além disso, foi dado suporte à **mudança física** do setor de oncologia, que incluía 8 laboratórios e consultórios.
+
+### 📌 **Tarefas principais:**
+- 🖥️ **Instalação de máquinas** e **configuração de servidores** na clínica externa.
+- 🛠️ **Organização de cabling** e infraestrutura de rede.
+- 🚚 **Apoio na mudança física** do setor de oncologia e configuração de **equipamentos de TI** nos novos locais.
+- 📡 **Suporte de conectividade** entre laboratórios, consultórios e setor administrativo.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🛠️ **Instalação completa** de todo o parque de TI da clínica externa.
+- 🖧 **Integração da rede e dos sistemas** entre os setores administrativos, laboratórios e consultórios.
+- 🚚 **Apoio total à mudança** física, garantindo que o **setor de oncologia** estivesse totalmente operacional com a **nova infraestrutura**.
+
+---
+
+## 🛠️ **Ferramentas e Tecnologias Utilizadas:**
+![Ferramentas](https://img.shields.io/badge/ferramentas-Instalação_de_TI-yellowgreen) ![Servidores](https://img.shields.io/badge/servidores-Configurados-blueviolet) ![Redes](https://img.shields.io/badge/redes-Cabling_lightblue)  
+- 🖥️ **Instalação de máquinas e servidores**.
+- 🛠️ **Configuração de redes** e infraestrutura física.
+- 🚚 **Apoio logístico** para mudança e realocação de equipamentos.
+
+# ✈️ **Projeto: Instalação de Antivírus McAfee e Inventário de PCs** - GOL Linhas Aéreas (2013)
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Ano](https://img.shields.io/badge/ano-2013-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-field_service-blue)
+
+## 🌐 **Empresa:** GOL Linhas Aéreas
+📅 **Período:** `2013`  
+🛫 **Setor:** Aviação | Field Service | Nível 2  
+📊 **Categoria:** Segurança de TI | Gestão de Ativos | Suporte Remoto
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+💻 Implementar a **instalação de antivírus McAfee** em todos os **microcomputadores** da GOL em **âmbito nacional**, realizando o **inventário completo** das máquinas para viabilizar a execução **remota** do processo em todos os aeroportos onde a empresa tinha guichês.
+
+---
+
+## 📝 **Descrição do Projeto:**
+🛡️ Este projeto teve uma abrangência **nacional**, com foco na **segurança de TI**. A meta era garantir que todos os **computadores da GOL** estivessem protegidos pelo antivírus McAfee, além de criar um **inventário detalhado** com informações de **IPs** e outros ativos para facilitar a gestão de máquinas e a instalação remota do antivírus.
+
+### 📌 **Tarefas principais:**
+- 🖥️ **Inventário completo** de todos os PCs nos guichês da GOL nos aeroportos brasileiros.
+- 🔧 **Automatização da instalação do antivírus** McAfee usando scripts e **disparos remotos**.
+- 🖧 **Conexão remota** para máquinas que não tiveram a instalação automática concluída.
+- 📊 Criação de uma **base de dados de ativos** contendo informações detalhadas sobre **IPs** e **configurações de rede**.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🛡️ **Proteção total da infraestrutura de TI** da GOL contra ameaças de segurança, com a instalação do McAfee em todos os terminais.
+- 📊 **Inventário atualizado** de todas as máquinas e seus IPs, garantindo maior controle e visibilidade sobre os ativos de TI.
+- 🔧 **Automatização** do processo de instalação do antivírus, economizando **tempo** e **recursos**, além de viabilizar o gerenciamento remoto das máquinas.
+
+---
+
+## 🛠️ **Ferramentas e Tecnologias Utilizadas:**
+![Ferramentas](https://img.shields.io/badge/ferramentas-Instalação_remota-yellowgreen) ![Segurança](https://img.shields.io/badge/antivírus-McAfee-red) ![Scripts](https://img.shields.io/badge/scripts-Automação-lightblue)  
+- 🛡️ **Antivírus McAfee**: Implementado em nível nacional.
+- 🖥️ **Inventário de PCs**: Mapeamento de máquinas, **IPs** e dados de rede.
+- 🔧 **Automatização via scripts**: Para disparo remoto e conexões manuais em caso de falha na automação.
+
+---
+
+## 🌍 **Abrangência Geográfica:**
+![Abrangência](https://img.shields.io/badge/abrangência-nacional-brightblue)  
+- Todos os **aeroportos** do Brasil onde a GOL possui guichês foram incluídos, abrangendo **várias cidades e estados**.
+
+# 🛒 **Projeto: Inventário Completo de Rede - Angeloni (2015)**
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen) ![Ano](https://img.shields.io/badge/ano-2015-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-infraestrutura-blue)
+
+## 🌐 **Empresa:** Angeloni Supermercados  
+📅 **Período:** `2015`  
+🛠️ **Setor:** Infraestrutura de TI | Redes | Inventário  
+📊 **Categoria:** Gestão de Ativos | Monitoramento de Rede
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+📡 Realizar o **inventário completo** da rede do supermercado Angeloni, abrangendo **7 racks de grande porte**, dispositivos de câmeras IP, **leitores de preços**, dispositivos **Wi-Fi**, **computadores** e **caixas**.
+
+---
+
+## 📝 **Descrição do Projeto:**
+💼 Este projeto envolveu o **mapeamento detalhado** de toda a infraestrutura de TI, com foco em **dispositivos de rede** e **equipamentos** de diferentes setores, como **câmeras de segurança**, **leitores de preços**, **dispositivos Wi-Fi**, **PCs** e **caixas registradoras**.
+
+### 📌 **Tarefas principais:**
+- 📋 **Inventário completo** de **7 racks** de grande porte no Angeloni.
+- 📸 **Mapeamento e categorização** de **câmeras IP**.
+- 🛒 **Registro de ativos** como **leitores de preços**, **dispositivos Wi-Fi**, **computadores** e **caixas**.
+- 🗄️ **Documentação detalhada** dos componentes e **configurações de rede**.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🎛️ **Visibilidade completa** da infraestrutura de rede, facilitando o gerenciamento dos ativos de TI.
+- 📡 Melhor **organização** e **monitoramento** de dispositivos de segurança (câmeras IP) e redes de **Wi-Fi**.
+- 📊 **Automatização dos processos** de gestão e manutenção de ativos, otimizando o suporte técnico e as atualizações.
+
+---
+
+## 🛠️ **Ferramentas e Tecnologias Utilizadas:**
+![Ferramentas](https://img.shields.io/badge/ferramentas-Inventário-yellowgreen) ![Segurança](https://img.shields.io/badge/monitoramento-câmeras_IP-red) ![Redes](https://img.shields.io/badge/gestão-racks-brightblue)  
+- 📡 **Câmeras IP**: Documentação de dispositivos de segurança.
+- 💻 **Leitores de preços e Wi-Fi**: Mapeamento de dispositivos conectados.
+- 🖥️ **PCs e caixas registradoras**: Inventário de equipamentos de TI.
+
+---
+
+## 🌍 **Abrangência Geográfica:**
+![Localização](https://img.shields.io/badge/localização-Angeloni_supermercados-lightblue)  
+- Projeto implementado na rede de supermercados **Angeloni**, cobrindo **várias lojas** e **localidades**.
+
+# 💊 **Projetos: Medicinal Farmácia e Manipulação (2019-2023)**
+
+![Status](https://img.shields.io/badge/status-em_andamento-blue) ![Ano](https://img.shields.io/badge/ano-2019--2023-lightgrey) ![Impacto](https://img.shields.io/badge/impacto-alto-orange) ![Área](https://img.shields.io/badge/área-infraestrutura-deploy-blue)
+
+## 🌐 **Empresa:** Medicinal Farmácia e Manipulação  
+📅 **Período:** `2019-2023`  
+🛠️ **Setor:** Infraestrutura de TI | Automação | Deploy  
+📊 **Categoria:** Migração de Servidores | Procedimentos de Deploy | Automação
+
+---
+
+## 🎯 **Objetivo do Projeto:**
+🔄 **Migrar** servidores AD Windows Server de **VMware** para **servidores blade Dell** bare metal. Desenvolver e implementar procedimentos de **deploy** de máquinas para atendimento e produção, configurando **Linux Mint** e otimizando o processo de **formatação** e **deploy** com automação avançada.
+
+---
+
+## 📝 **Descrição do Projeto (Ano 2019):**
+
+### 🖥️ **Migração de Servidores:**
+- **Migração de Infraestrutura**: Realizamos a migração de **servidores AD Windows Server** de um ambiente **VMware** para servidores **bare metal blade Dell**. Essa transição foi crucial para melhorar o desempenho e a escalabilidade da infraestrutura.
+- **Planejamento e Execução**: A migração envolveu o planejamento minucioso, a criação de um ambiente de teste e a execução da transição com mínimas interrupções. Utilizamos ferramentas de **backup e recuperação** para garantir a integridade dos dados.
+
+### 🔧 **Procedimentos de Deploy e Configuração:**
+- **Criação e Configuração**:
+  - Desenvolvemos procedimentos de **deploy** para **máquinas de atendimento e produção**, utilizando **Linux Mint** como sistema operacional.
+  - Implementamos um **processo de formatação** e criação de **imagens** de sistemas, além de configurar um **repositório de configuração** para facilitar a recuperação e a replicação dos ambientes.
+- **Automatização de Deploy**:
+  - **Automatizamos o deploy pós-setup e configuração** usando ferramentas como **Puppet Bolt** para **orquestração** e **gerenciamento de configurações**.
+  - Desenvolvemos scripts para **deploy via rede** (`/mnt`) para simplificar e agilizar a instalação e configuração das máquinas.
+
+### 🛠️ **Ferramentas e Tecnologias Utilizadas:**
+![Servidores](https://img.shields.io/badge/servidores-blade_Dell-blue) ![VMware](https://img.shields.io/badge/virtualização-VMware-lightgrey) ![Linux Mint](https://img.shields.io/badge/SO-Linux_Mint-green) ![Automação](https://img.shields.io/badge/automação-Puppet_Bolt-orange)
+- **Servidores Blade Dell**: Para a nova infraestrutura bare metal.
+- **VMware**: Ambiente virtual anterior de onde os servidores foram migrados.
+- **Linux Mint**: Sistema operacional configurado e deployado em novas máquinas.
+- **Puppet Bolt**: Ferramenta utilizada para automação de configurações e deploy.
+
+### 📋 **Documentação e Procedimentos:**
+- **Procedimentos de Deploy**: Documentação detalhada sobre a criação e configuração de **imagens** e **deploy** de máquinas.
+- **Scripts e Configuração**: Desenvolvimento e manutenção de scripts para **deploy automático** e configuração de máquinas, incluindo **first login** e **desktop setup**.
+- **Repositório de Configuração**: Centralização de configurações e **scripts de deploy** em um repositório acessível para facilitar a recuperação e replicação.
+
+---
+
+## 🚀 **Principais Contribuições:**
+- 🌟 **Melhoria na Performance**: A migração para servidores blade Dell proporcionou um aumento significativo na **performance** e **escalabilidade** da infraestrutura.
+- 🛠️ **Otimização do Processo**: A automação do **deploy** e a criação de um processo robusto de formatação e configuração reduziram o **tempo de implementação** e **erros manuais**.
+- 📊 **Documentação Abrangente**: Documentação completa e **procedimentos padronizados** garantiram que o processo fosse replicável e sustentável ao longo dos anos.
+
+---
+
+## 🌍 **Abrangência Geográfica:**
+![Localização](https://img.shields.io/badge/localização-Medicinal_Farmácia-brightblue)  
+- Projeto implementado em **todas as instalações** da Medicinal Farmácia e Manipulação, garantindo uma atualização uniforme e eficiente de todos os ambientes de TI.
+
 
 ### ITSM e Suporte Técnico 💼
 
